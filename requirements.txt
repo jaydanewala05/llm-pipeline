@@ -1,0 +1,26 @@
+# Core HTTP & HTML
+requests>=2.31.0
+httpx>=0.27.0
+beautifulsoup4>=4.12.0
+lxml>=5.2.0
+
+# PDF
+pypdf>=4.2.0
+
+# Token counting
+tiktoken>=0.7.0
+
+# Data output
+pandas>=2.2.0
+openpyxl>=3.1.2       # needed by pandas for .xlsx output
+
+# LLM SDKs (install only the one(s) you use)
+openai>=1.30.0
+groq>=0.9.0
+google-generativeai>=0.7.0
+
+# Retry logic
+tenacity>=8.3.0
+
+# Environment variables (optional helper)
+python-dotenv>=1.0.0

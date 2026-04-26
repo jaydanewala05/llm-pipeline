@@ -1,0 +1,39 @@
+OpenAI and the Future of Artificial Intelligence
+
+OpenAI, founded in San Francisco in 2015 by Sam Altman, Elon Musk, Greg Brockman, and others, 
+has rapidly become one of the most influential organisations in the field of artificial intelligence. 
+The company's flagship products -- ChatGPT and the GPT series of models -- have fundamentally 
+changed how businesses and individuals interact with AI systems.
+
+In 2023, Microsoft announced a multi-billion dollar investment in OpenAI, deepening the partnership 
+that had already integrated GPT-4 into products like Azure OpenAI Service and Bing Chat. 
+This deal valued OpenAI at approximately $29 billion, reflecting the enormous commercial potential 
+of large language models.
+
+Critics have raised significant concerns about the pace of AI development. Geoffrey Hinton, 
+often called the "godfather of AI," resigned from Google in May 2023 specifically to speak 
+freely about the dangers of AI. He warned that AI systems could become more intelligent than 
+humans within the next five to twenty years, potentially posing existential risks that humanity 
+is ill-prepared to manage.
+
+The European Union has taken a proactive regulatory stance with the EU AI Act, which came into 
+effect in 2024. The legislation classifies AI systems by risk level and imposes strict requirements 
+on high-risk applications, including those used in healthcare, critical infrastructure, and law 
+enforcement. Companies like Meta, Google DeepMind, and Anthropic have all submitted compliance 
+frameworks to relevant regulatory bodies across London, Brussels, and Washington DC.
+
+Meanwhile, the race to develop Artificial General Intelligence (AGI) -- AI that can perform 
+any intellectual task a human can -- continues at an unprecedented pace. Demis Hassabis of 
+Google DeepMind believes AGI could arrive within a decade, while others like Yann LeCun of Meta 
+argue that current deep learning approaches are fundamentally limited and cannot achieve true 
+general intelligence without new breakthroughs.
+
+The economic impact is already enormous. A McKinsey Global Institute report estimated that 
+generative AI could add between $2.6 trillion and $4.4 trillion to the global economy annually 
+across 63 use cases. However, this potential comes alongside significant job displacement concerns. 
+Goldman Sachs estimated that 300 million full-time jobs worldwide could be partially or fully 
+automated by advances in AI over the coming decade.
+
+Universities including MIT, Stanford, Carnegie Mellon, and Oxford have all dramatically expanded 
+their AI research programmes and are producing a new generation of researchers who will shape 
+this technology's trajectory.

@@ -1,0 +1,107 @@
+2026-04-26 20:53:47 | INFO | Pipeline started
+2026-04-26 20:53:47 | INFO | File input: sample_inputs/ai_article.txt
+2026-04-26 20:53:47 | INFO | URL inputs: ['https://en.wikipedia.org/wiki/Artificial_intelligence']
+2026-04-26 20:53:47 | INFO | Ingesting file: sample_inputs/ai_article.txt
+2026-04-26 20:53:47 | INFO | TXT ingested: ai_article.txt (2,693 chars)
+2026-04-26 20:53:47 | INFO | Ingesting 1 URL(s)…
+2026-04-26 20:53:55 | INFO | URL ingested: https://en.wikipedia.org/wiki/Artificial_intelligence (208,924 chars)
+2026-04-26 20:53:55 | INFO | Total documents ingested: 2
+2026-04-26 20:53:55 | INFO | Preprocessing documents…
+2026-04-26 20:53:56 | DEBUG | Cleaned 'sample_inputs\ai_article.txt': 2,693 → 2,668 chars
+2026-04-26 20:53:56 | INFO | 'sample_inputs\ai_article.txt' → 1 chunk(s) (~521 tokens cleaned)
+2026-04-26 20:53:56 | DEBUG | Cleaned 'https://en.wikipedia.org/wiki/Artificial_intelligence': 208,924 → 208,900 chars
+2026-04-26 20:53:58 | INFO | 'https://en.wikipedia.org/wiki/Artificial_intelligence' → 74 chunk(s) (~57,521 tokens cleaned)
+2026-04-26 20:53:58 | INFO | Total chunks after preprocessing: 75
+2026-04-26 20:54:02 | INFO | LLM provider: groq | model: llama-3.3-70b-versatile
+2026-04-26 20:54:02 | INFO | Processing chunk 1/75 — source: sample_inputs\ai_article.txt
+2026-04-26 20:54:04 | INFO | Processing chunk 2/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:05 | INFO | Processing chunk 3/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:06 | INFO | Processing chunk 4/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:07 | INFO | Processing chunk 5/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:08 | INFO | Processing chunk 6/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:09 | INFO | Processing chunk 7/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:09 | INFO | Processing chunk 8/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:10 | INFO | Processing chunk 9/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:11 | INFO | Processing chunk 10/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:12 | INFO | Processing chunk 11/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:13 | INFO | Processing chunk 12/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:18 | INFO | Processing chunk 13/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:25 | INFO | Processing chunk 14/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:32 | WARNING | json.loads failed (Expecting ',' delimiter: line 11 column 4 (char 956)) — attempting repair.
+2026-04-26 20:54:32 | WARNING | Falling back to regex partial extraction.
+2026-04-26 20:54:32 | WARNING | Partial extraction used — results may be incomplete.
+2026-04-26 20:54:32 | INFO | Processing chunk 15/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:38 | INFO | Processing chunk 16/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:45 | INFO | Processing chunk 17/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:51 | INFO | Processing chunk 18/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:54:57 | INFO | Processing chunk 19/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:03 | INFO | Processing chunk 20/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:09 | INFO | Processing chunk 21/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:16 | WARNING | json.loads failed (Expecting value: line 2 column 14 (char 15)) — attempting repair.
+2026-04-26 20:55:16 | WARNING | Falling back to regex partial extraction.
+2026-04-26 20:55:16 | WARNING | Partial extraction used — results may be incomplete.
+2026-04-26 20:55:16 | INFO | Processing chunk 22/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:24 | INFO | Processing chunk 23/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:29 | INFO | Processing chunk 24/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:35 | INFO | Processing chunk 25/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:43 | INFO | Processing chunk 26/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:49 | INFO | Processing chunk 27/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:55:55 | INFO | Processing chunk 28/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:01 | INFO | Processing chunk 29/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:07 | INFO | Processing chunk 30/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:13 | INFO | Processing chunk 31/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:21 | INFO | Processing chunk 32/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:28 | INFO | Processing chunk 33/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:35 | INFO | Processing chunk 34/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:42 | INFO | Processing chunk 35/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:49 | INFO | Processing chunk 36/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:56:55 | INFO | Processing chunk 37/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:01 | INFO | Processing chunk 38/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:08 | INFO | Processing chunk 39/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:15 | INFO | Processing chunk 40/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:22 | INFO | Processing chunk 41/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:29 | INFO | Processing chunk 42/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:35 | INFO | Processing chunk 43/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:42 | INFO | Processing chunk 44/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:50 | INFO | Processing chunk 45/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:57:57 | INFO | Processing chunk 46/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:02 | INFO | Processing chunk 47/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:10 | INFO | Processing chunk 48/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:16 | INFO | Processing chunk 49/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:23 | INFO | Processing chunk 50/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:30 | INFO | Processing chunk 51/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:36 | INFO | Processing chunk 52/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:44 | INFO | Processing chunk 53/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:50 | INFO | Processing chunk 54/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:58:57 | INFO | Processing chunk 55/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:04 | INFO | Processing chunk 56/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:10 | INFO | Processing chunk 57/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:18 | INFO | Processing chunk 58/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:24 | INFO | Processing chunk 59/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:31 | INFO | Processing chunk 60/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:38 | WARNING | json.loads failed (Expecting value: line 2 column 14 (char 15)) — attempting repair.
+2026-04-26 20:59:38 | WARNING | Falling back to regex partial extraction.
+2026-04-26 20:59:38 | WARNING | Partial extraction used — results may be incomplete.
+2026-04-26 20:59:38 | INFO | Processing chunk 61/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:44 | INFO | Processing chunk 62/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:51 | INFO | Processing chunk 63/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 20:59:59 | INFO | Processing chunk 64/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:05 | INFO | Processing chunk 65/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:12 | INFO | Processing chunk 66/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:18 | INFO | Processing chunk 67/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:25 | INFO | Processing chunk 68/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:29 | INFO | Processing chunk 69/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:35 | INFO | Processing chunk 70/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:43 | INFO | Processing chunk 71/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:49 | INFO | Processing chunk 72/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:00:53 | WARNING | json.loads failed (Expecting value: line 2 column 14 (char 15)) — attempting repair.
+2026-04-26 21:00:53 | WARNING | Falling back to regex partial extraction.
+2026-04-26 21:00:53 | WARNING | Partial extraction used — results may be incomplete.
+2026-04-26 21:00:53 | INFO | Processing chunk 73/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:01:07 | INFO | Processing chunk 74/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:01:13 | INFO | Processing chunk 75/75 — source: https://en.wikipedia.org/wiki/Artificial_intelligence
+2026-04-26 21:01:19 | INFO | Extraction complete: 75 succeeded, 0 skipped.
+2026-04-26 21:01:19 | INFO | JSON saved: outputs\results_20260426_210119.json (75 records)
+2026-04-26 21:01:43 | INFO | CSV saved: outputs\results_20260426_210119.csv (75 rows)
+2026-04-26 21:01:43 | INFO | Summary report saved: outputs\summary_20260426_210119.txt
+2026-04-26 21:01:43 | INFO | Pipeline finished successfully.

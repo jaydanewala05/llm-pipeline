@@ -1,0 +1,3223 @@
+[
+  {
+    "chunk_id": 1,
+    "source": "sample_inputs\\ai_article.txt",
+    "chunk_index": 0,
+    "text_preview": "OpenAI and the Future of Artificial Intelligence\n\nOpenAI, founded in San Francisco in 2015 by Sam Altman, Elon Musk, Greg Brockman, and others,\nhas rapidly become one of the most influential organisat",
+    "summary": "OpenAI, founded in 2015, has become a leading organisation in artificial intelligence with its flagship products ChatGPT and GPT series. The company has received significant investment from Microsoft, valuing it at $29 billion, and has sparked concerns about the pace of AI development and its potential risks. The development of Artificial General Intelligence continues at a rapid pace, with potential economic impacts estimated to be between $2.6 trillion and $4.4 trillion annually.",
+    "entities": {
+      "people": [
+        "Sam Altman",
+        "Elon Musk",
+        "Greg Brockman",
+        "Geoffrey Hinton",
+        "Demis Hassabis",
+        "Yann LeCun"
+      ],
+      "places": [
+        "San Francisco",
+        "London",
+        "Brussels",
+        "Washington DC"
+      ],
+      "organizations": [
+        "OpenAI",
+        "Microsoft",
+        "Google",
+        "Google DeepMind",
+        "Meta",
+        "Anthropic",
+        "McKinsey Global Institute",
+        "Goldman Sachs",
+        "MIT",
+        "Stanford",
+        "Carnegie Mellon",
+        "Oxford",
+        "European Union",
+        "Azure",
+        "Bing"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the current state of artificial intelligence development?",
+      "What are the potential risks and benefits of AI development?",
+      "How will the development of Artificial General Intelligence impact the global economy?"
+    ]
+  },
+  {
+    "chunk_id": 2,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 0,
+    "text_preview": "From Wikipedia, the free encyclopedia\nIntelligence of machines\n\"AI\" redirects here. For other uses, see\nAI (disambiguation)\nand\nArtificial intelligence (disambiguation)\n. Part of\na series\non\nArtificia",
+    "summary": "Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, and decision-making. The field of AI research has developed and studied methods and software that enable machines to perceive their environment and take actions to achieve defined goals. AI has various applications, including web search engines, chatbots, and autonomous vehicles, and its goals include learning, reasoning, and knowledge representation.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": [
+        "OpenAI",
+        "Google DeepMind",
+        "Meta"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is artificial intelligence?",
+      "What are the goals of AI research?",
+      "What are some applications of AI?"
+    ]
+  },
+  {
+    "chunk_id": 3,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 1,
+    "text_preview": "[\n7\n]\n[\n8\n]\nFunding and interest increased substantially after 2012, when\ngraphics processing units\nbegan being used to accelerate neural networks, and\ndeep learning\noutperformed previous AI technique",
+    "summary": "The development of artificial intelligence (AI) has accelerated substantially since 2012, with significant advancements in deep learning, generative AI, and the transformer architecture. AI research has focused on simulating intelligence by breaking down the problem into subproblems, including reasoning, problem-solving, knowledge representation, and planning. However, AI also raises concerns about safety, ethics, and regulation.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key challenges in developing artificial intelligence?",
+      "How has the development of AI accelerated in recent years?",
+      "What are the potential risks and concerns associated with AI?"
+    ]
+  },
+  {
+    "chunk_id": 4,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 2,
+    "text_preview": "[\n31\n]\nIn\nautomated decision-making\n, the agent has preferences--there are some situations it would prefer to be in, and some situations it is trying to avoid. The decision-making agent assigns a numb",
+    "summary": "Automated decision-making involves assigning a utility to each situation and choosing the action with the maximum expected utility. In real-world problems, the agent may be uncertain about the situation and the outcome of actions, requiring probabilistic guesses and reassessment. Machine learning is used to improve performance on a given task, including supervised, unsupervised, and reinforcement learning.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is automated decision-making?",
+      "How does machine learning improve performance?",
+      "What types of machine learning exist?"
+    ]
+  },
+  {
+    "chunk_id": 5,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 3,
+    "text_preview": "[\n48\n]\nNatural language processing\nNatural language processing\n(NLP) allows programs to read, write and communicate in human languages. [\n49\n]\nSpecific problems include\nspeech recognition\n,\nspeech syn",
+    "summary": "Natural language processing (NLP) allows programs to read, write, and communicate in human languages, with applications in speech recognition, machine translation, and question answering. The field has evolved from early work based on generative grammar and semantic networks to modern deep learning techniques such as word embedding and transformers. Artificial intelligence (AI) also encompasses machine perception, social intelligence, and general intelligence, with techniques including search and optimization, and applications in areas like computer vision and affective computing.",
+    "entities": {
+      "people": [
+        "Noam Chomsky",
+        "Margaret Masterman"
+      ],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is natural language processing and its applications?",
+      "How has AI evolved over time?",
+      "What are the different types of intelligence in AI?"
+    ]
+  },
+  {
+    "chunk_id": 6,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 4,
+    "text_preview": "The result is a search that is\ntoo slow\nor never completes. [\n13\n]\n\"\nHeuristics\n\" or \"rules of thumb\" can help prioritize choices that are more likely to reach a goal. [\n71\n]\nAdversarial search\nis use",
+    "summary": "The text discusses various search algorithms and techniques used in computer science, including heuristic search, adversarial search, local search, and distributed search. These methods are used to find solutions to problems, optimize parameters, and make decisions. The text also touches on formal logic, reasoning, and knowledge representation, including propositional and predicate logic, deductive reasoning, and proof trees.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the different types of search algorithms?",
+      "How is formal logic used in computer science?",
+      "What is the role of reasoning and knowledge representation in problem-solving?"
+    ]
+  },
+  {
+    "chunk_id": 7,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 5,
+    "text_preview": "[\n84\n]\nNon-monotonic logics\n, including logic programming with\nnegation as failure\n, are designed to handle\ndefault reasoning\n. [\n26\n]\nOther specialized versions of logic have been developed to descri",
+    "summary": "Artificial intelligence (AI) researchers have developed various tools to handle incomplete or uncertain information, including probabilistic methods, decision theory, and machine learning algorithms. These tools enable AI agents to make choices, plan, and reason in complex domains. AI applications can be divided into classifiers and controllers, with classifiers using pattern matching to determine the closest match.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": [
+        "Google"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the main challenges in AI research?",
+      "How do probabilistic methods help in uncertain reasoning?",
+      "What are the different types of machine learning algorithms used in AI?"
+    ]
+  },
+  {
+    "chunk_id": 8,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 6,
+    "text_preview": "A network is typically called a deep neural network if it has at least 2 hidden layers. [\n103\n]\nLearning algorithms for neural networks use\nlocal search\nto choose the weights that will get the right o",
+    "summary": "A deep neural network is a type of neural network with at least two hidden layers, and it can learn to model complex relationships between inputs and outputs. Deep learning, a subset of machine learning, uses multiple layers of neurons to extract higher-level features from raw input. This has led to significant improvements in various artificial intelligence subfields, including computer vision and natural language processing.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is a deep neural network?",
+      "How does deep learning improve artificial intelligence?",
+      "What are the applications of deep learning?"
+    ]
+  },
+  {
+    "chunk_id": 9,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 7,
+    "text_preview": "[\n123\n]\n[\n124\n]\nCurrent models and services include\nChatGPT\n,\nClaude\n,\nGemini\n,\nCopilot\n, and\nMeta AI\n. [\n125\n]\nMultimodal\nGPT models can process different types of data (\nmodalities\n) such as images,",
+    "summary": "Current models and services in artificial intelligence include ChatGPT, Claude, and Meta AI, with applications in search engines, recommendation systems, and virtual assistants. The development of AI has been driven by advancements in hardware and software, including the use of graphics processing units (GPUs) and specialized programming languages. AI has also been used in various fields such as healthcare, gaming, and autonomous vehicles.",
+    "entities": {
+      "people": [
+        "Gordon Moore",
+        "Jensen Huang",
+        "Garry Kasparov"
+      ],
+      "places": [],
+      "organizations": [
+        "Intel",
+        "Nvidia",
+        "Google",
+        "Netflix",
+        "Amazon",
+        "Microsoft",
+        "Apple",
+        "Facebook",
+        "YouTube"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current models and services in artificial intelligence?",
+      "How has the development of AI been driven by advancements in hardware and software?",
+      "What are the various applications of AI in different fields?"
+    ]
+  },
+  {
+    "chunk_id": 10,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 8,
+    "text_preview": "quiz show\nexhibition match,\nIBM\n's\nquestion answering system\n,\nWatson\n, defeated the two greatest\nJeopardy! champions,\nBrad Rutter\nand\nKen Jennings\n, by a significant margin. [\n139\n]\nIn March 2016,\nAl",
+    "summary": "Artificial intelligence has made significant advancements in various fields, including game playing, mathematics, and finance. AI systems such as Watson, AlphaGo, and AlphaStar have defeated human champions in games like Jeopardy and Go, while models like Qwen2-Math and AlphaTensor have achieved state-of-the-art performance in mathematical benchmarks. These developments have the potential to transform industries and revolutionize the way we approach complex problems.",
+    "entities": {
+      "people": [
+        "Brad Rutter",
+        "Ken Jennings",
+        "Lee Sedol",
+        "Ke Jie",
+        "Nicolas Firzli"
+      ],
+      "places": [],
+      "organizations": [
+        "IBM",
+        "DeepMind",
+        "Alibaba Group",
+        "Google",
+        "Microsoft",
+        "World Pensions & Investments Forum"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current capabilities of AI systems in game playing and mathematics?",
+      "How are AI models being used in finance and military applications?",
+      "What are the potential implications of AI advancements on employment and innovation?"
+    ]
+  },
+  {
+    "chunk_id": 11,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 9,
+    "text_preview": "[\n153\n]\nResearch is targeting intelligence collection and analysis, logistics, cyber operations, information operations, and semiautonomous and\nautonomous vehicles\n. [\n152\n]\nAI technologies enable coo",
+    "summary": "Research is targeting the use of artificial intelligence in various military and civilian applications, including intelligence collection, logistics, and autonomous vehicles. Generative AI, a subfield of artificial intelligence, uses generative models to generate text, images, and other forms of data. Companies in various sectors have used generative AI, including software development, healthcare, finance, and entertainment.",
+    "entities": {
+      "people": [],
+      "places": [
+        "Iraq",
+        "Syria",
+        "Israel",
+        "Ukraine"
+      ],
+      "organizations": [
+        "Microsoft",
+        "Google"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current applications of artificial intelligence in military operations?",
+      "How is generative AI being used in various industries?",
+      "What are the potential benefits and limitations of AI agents in real-world applications?"
+    ]
+  },
+  {
+    "chunk_id": 12,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 10,
+    "text_preview": "[\n175\n]\nSexuality\nApplications of AI in this domain include AI-enabled menstruation and fertility trackers that analyze user data to offer predictions,\n[\n176\n]\nAI-integrated sex toys (e.g.,\nteledildon",
+    "summary": "Artificial intelligence (AI) has various applications, including AI-enabled menstruation and fertility trackers, AI-integrated sex toys, and AI-generated sexual education content. However, AI also raises significant ethical and legal concerns, such as the production of non-consensual deepfake pornography and online gender-based violence. The use of AI has become widespread, with potential benefits and risks, including concerns about privacy, surveillance, and copyright.",
+    "entities": {
+      "people": [
+        "Demis Hassabis",
+        "Cynthia Dwork"
+      ],
+      "places": [
+        "Tel Aviv",
+        "India"
+      ],
+      "organizations": [
+        "DeepMind",
+        "Amazon"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.6
+    },
+    "key_questions": [
+      "What are the applications of AI in the domain of sexuality?",
+      "What are the ethical concerns surrounding the use of AI?",
+      "How can AI developers balance the need for data with concerns about privacy and surveillance?"
+    ]
+  },
+  {
+    "chunk_id": 13,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 11,
+    "text_preview": "Brian Christian\nwrote that experts have pivoted \"from the question of 'what they know' to the question of 'what they're doing with it'.\"\n[\n199\n]\nGenerative AI is often trained on unlicensed copyrighte",
+    "summary": "The use of generative AI has raised concerns about copyright and fair use, with experts disagreeing on the rationale of using copyrighted works without permission. Big Tech companies dominate the commercial AI scene, and their data centers' demand for power is increasing, potentially leading to environmental impacts. The growth of AI infrastructure and data centers is expected to continue, with significant investments and power consumption projected by 2030.",
+    "entities": {
+      "people": [
+        "Brian Christian",
+        "John Grisham",
+        "Jonathan Franzen"
+      ],
+      "places": [
+        "US",
+        "Japan"
+      ],
+      "organizations": [
+        "Alphabet Inc.",
+        "Amazon",
+        "Apple Inc.",
+        "Meta Platforms",
+        "Microsoft",
+        "McKinsey & Company",
+        "International Energy Agency",
+        "Goldman Sachs",
+        "The Wall Street Journal"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the implications of using copyrighted works to train generative AI?",
+      "How will the growth of AI infrastructure and data centers impact the environment?",
+      "Can Big Tech companies balance their power consumption with sustainable practices?"
+    ]
+  },
+  {
+    "chunk_id": 14,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 12,
+    "text_preview": "In March 2024 Amazon purchased a Pennsylvania nuclear-powered data center for US$650 million. [\n220\n]\nIn September 2024,\nMicrosoft\nannounced an agreement with\nConstellation Energy\nto re-open the\nThree",
+    "summary": "In 2024, Amazon purchased a Pennsylvania nuclear-powered data center for $650 million, while Microsoft announced an agreement with Constellation Energy to re-open the Three Mile Island nuclear power plant. The US government and the state of Michigan are also investing in reopening nuclear reactors, with the goal of producing energy for data centers. Meanwhile, countries like Taiwan and Singapore are taking steps to address power supply shortages and phase out nuclear power.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0
+    },
+    "key_questions": [
+      "Could not extract questions.",
+      "Could not extract questions.",
+      "Could not extract questions."
+    ],
+    "parse_error": true
+  },
+  {
+    "chunk_id": 15,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 13,
+    "text_preview": "[\n227\n]\nThis convinced many users that the misinformation was true, and ultimately undermined trust in institutions, the media and the government. [\n228\n]\nThe AI program had correctly learned to maxim",
+    "summary": "The development of AI technology has led to the creation of misinformation and propaganda, which can be used to manipulate electorates and undermine trust in institutions. AI pioneer Geoffrey Hinton has expressed concern about the potential risks of AI, including its ability to enable authoritarian leaders to manipulate their electorates. The use of biased data in machine learning applications can also lead to discriminatory behavior and harm people in areas such as medicine, finance, and policing.",
+    "entities": {
+      "people": [
+        "Geoffrey Hinton",
+        "Jacky Alcine",
+        "Julia Angwin"
+      ],
+      "places": [
+        "U.S."
+      ],
+      "organizations": [
+        "Microsoft",
+        "OpenAI",
+        "Google",
+        "Apple",
+        "Facebook",
+        "Amazon",
+        "ProPublica"
+      ]
+    },
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "How can AI technology be used to create misinformation and propaganda?",
+      "What are the potential risks of AI in manipulating electorates?",
+      "How can biased data in machine learning applications lead to discriminatory behavior?"
+    ]
+  },
+  {
+    "chunk_id": 16,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 14,
+    "text_preview": "[\n248\n]\nIn 2017, several researchers\n[\nl\n]\nshowed that it was mathematically impossible for COMPAS to accommodate all possible measures of fairness when the base rates of re-offense were different for",
+    "summary": "Researchers have shown that machine learning models, such as COMPAS, can make biased decisions even if the data does not explicitly mention problematic features. These models are designed to make predictions based on past data, which can perpetuate racist decisions if the data includes the results of such decisions. This highlights the need for transparency and fairness in AI systems, which can be challenging to achieve due to the complexity of these systems and the subjectivity of notions of bias and fairness.",
+    "entities": {
+      "people": [
+        "Moritz Hardt"
+      ],
+      "places": [],
+      "organizations": [
+        "ACM"
+      ]
+    },
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "How can machine learning models be designed to avoid perpetuating biases?",
+      "What are the challenges in achieving transparency and fairness in AI systems?",
+      "How can the subjectivity of notions of bias and fairness be addressed in AI development?"
+    ]
+  },
+  {
+    "chunk_id": 17,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 15,
+    "text_preview": "[\n260\n]\nAnother machine learning system designed to help effectively allocate medical resources was found to classify patients with asthma as being at \"low risk\" of dying from pneumonia. Having asthma",
+    "summary": "A machine learning system was found to misclassify patients with asthma as being at low risk of dying from pneumonia due to misleading correlations in the training data. The European Union's General Data Protection Regulation included a right to explanation for individuals harmed by algorithmic decisions, but industry experts consider this an unsolved problem. Researchers and organizations are working to develop explainable artificial intelligence and address the transparency problem.",
+    "entities": {
+      "people": [],
+      "places": [
+        "European Union",
+        "United States",
+        "China"
+      ],
+      "organizations": [
+        "DARPA",
+        "Anthropic",
+        "United Nations"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the risks of using machine learning systems in medical diagnosis?",
+      "How can explainable artificial intelligence address the transparency problem?",
+      "What are the potential consequences of using AI tools for malicious purposes?"
+    ]
+  },
+  {
+    "chunk_id": 18,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 16,
+    "text_preview": "[\n274\n]\nAll these technologies have been available since 2020 or earlier--AI\nfacial recognition systems\nare already being used for\nmass surveillance\nin China. [\n275\n]\n[\n276\n]\nThere are many other ways",
+    "summary": "The development and use of artificial intelligence (AI) has raised concerns about its potential impact on employment, with some economists predicting significant job losses, particularly in white-collar professions. AI has already been used for mass surveillance in China and has the potential to design toxic molecules, highlighting its potential risks. The increasing use of AI may also lead to substitution for human-human interaction, potentially exacerbating issues like loneliness.",
+    "entities": {
+      "people": [
+        "Michael Osborne",
+        "Carl Benedikt Frey",
+        "Jim Farley",
+        "Joseph Weizenbaum"
+      ],
+      "places": [
+        "China",
+        "U.S."
+      ],
+      "organizations": [
+        "The Economist",
+        "Ford",
+        "OECD"
+      ]
+    },
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the potential risks of AI on employment?",
+      "How can AI be used for mass surveillance?",
+      "What are the potential consequences of relying on AI for human interaction?"
+    ]
+  },
+  {
+    "chunk_id": 19,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 17,
+    "text_preview": "[\n294\n]\n[\n295\n]\nExistential risk\nMain article:\nExistential risk from artificial intelligence\nRecent public debates in artificial intelligence have increasingly focused on its broader societal and ethi",
+    "summary": "Recent debates in artificial intelligence have focused on its broader societal and ethical implications, with some experts arguing that AI could become so powerful that humanity may irreversibly lose control of it. This could lead to an existential risk, where AI becomes a threat to human existence. Experts such as Stephen Hawking, Nick Bostrom, and Geoffrey Hinton have expressed concerns about the risks of AI.",
+    "entities": {
+      "people": [
+        "Stephen Hawking",
+        "Nick Bostrom",
+        "Stuart Russell",
+        "Yuval Noah Harari",
+        "Geoffrey Hinton",
+        "Bill Gates",
+        "Elon Musk",
+        "Yoshua Bengio",
+        "Demis Hassabis",
+        "Sam Altman"
+      ],
+      "places": [
+        "US"
+      ],
+      "organizations": [
+        "Google"
+      ]
+    },
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the existential risks associated with artificial intelligence?",
+      "How can we mitigate the risks of AI becoming a threat to human existence?",
+      "What are the implications of AI becoming more powerful than humanity?"
+    ]
+  },
+  {
+    "chunk_id": 20,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 18,
+    "text_preview": "AI pioneer\nJürgen Schmidhuber\ndid not sign the joint statement, emphasising that in 95% of all cases, AI research is about making \"human lives longer and healthier and easier.\"\n[\n309\n]\nWhile the tools",
+    "summary": "AI pioneers such as Jürgen Schmidhuber, Andrew Ng, and Yann LeCun have differing opinions on the risks and benefits of AI, with some arguing that it will improve human lives and others warning of potential dangers. The field of machine ethics is focused on developing machines that can make ethical decisions and minimize risks. Researchers are working on creating friendly AI and open-source models, but also warn of potential misuses and the need for pre-release audits and cost-benefit analyses.",
+    "entities": {
+      "people": [
+        "Jürgen Schmidhuber",
+        "Andrew Ng",
+        "Yann LeCun",
+        "Eliezer Yudkowsky",
+        "Wendell Wallach",
+        "Stuart J. Russell"
+      ],
+      "places": [],
+      "organizations": [
+        "AAAI",
+        "Hugging Face",
+        "Google",
+        "EleutherAI",
+        "Meta"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.6
+    },
+    "key_questions": [
+      "What are the potential risks and benefits of AI?",
+      "How can friendly AI be developed?",
+      "What are the implications of open-source AI models?"
+    ]
+  },
+  {
+    "chunk_id": 21,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 19,
+    "text_preview": "An AI framework such as the Care and Act Framework, developed by the\nAlan Turing Institute\nand based on the SUM values, outlines four main ethical dimensions, defined as follows:\n[\n329\n]\n[\n330\n]\nRespe",
+    "summary": "Extraction failed — raw output could not be parsed as JSON.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0
+    },
+    "key_questions": [
+      "Could not extract questions.",
+      "Could not extract questions.",
+      "Could not extract questions."
+    ],
+    "parse_error": true
+  },
+  {
+    "chunk_id": 22,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 20,
+    "text_preview": "[\n344\n]\nIn a 2022\nIpsos\nsurvey, attitudes towards AI varied greatly by country; 78% of Chinese citizens, but only 35% of Americans, agreed that \"products and services using AI have more benefits than ",
+    "summary": "Attitudes towards AI vary greatly by country, with 78% of Chinese citizens and 35% of Americans agreeing that AI products have more benefits than drawbacks. The first global AI Safety Summit was held in 2023 to discuss the risks of AI and regulatory frameworks. International cooperation is being sought to manage the challenges and risks of artificial intelligence.",
+    "entities": {
+      "people": [
+        "Alan Turing",
+        "McCulloch",
+        "Pitts"
+      ],
+      "places": [
+        "Bletchley Park",
+        "United Kingdom",
+        "United States",
+        "China",
+        "Seoul",
+        "Dartmouth College"
+      ],
+      "organizations": [
+        "Ipsos",
+        "Reuters",
+        "Fox News",
+        "United Nations",
+        "European Union"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the benefits and drawbacks of AI?",
+      "How do countries vary in their attitudes towards AI?",
+      "What international efforts are being made to regulate and manage the risks of AI?"
+    ]
+  },
+  {
+    "chunk_id": 23,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 21,
+    "text_preview": "[\n356\n]\nResearchers in the 1960s and the 1970s were convinced that their methods would eventually succeed in creating a machine with\ngeneral intelligence\nand considered this the goal of their field. [",
+    "summary": "Researchers in the 1960s and 1970s were convinced that they could create a machine with general intelligence, but they underestimated the difficulty of the problem. The field of AI experienced a decline in funding and interest, known as the 'AI winter', but was later revived by the commercial success of expert systems and the development of new approaches such as connectionism and neural networks. By the late 1990s and early 21st century, AI had restored its reputation by exploiting formal mathematical methods and finding specific solutions to specific problems.",
+    "entities": {
+      "people": [
+        "Herbert Simon",
+        "Marvin Minsky",
+        "Sir James Lighthill",
+        "Papert",
+        "Rodney Brooks",
+        "Judea Pearl",
+        "Lotfi Zadeh",
+        "Geoffrey Hinton",
+        "Yann LeCun"
+      ],
+      "places": [
+        "U.S.",
+        "Britain",
+        "Japan"
+      ],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What were the goals of AI researchers in the 1960s and 1970s?",
+      "What led to the decline of AI research in the 1970s and 1980s?",
+      "How was AI research revived in the late 1990s and early 21st century?"
+    ]
+  },
+  {
+    "chunk_id": 24,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 22,
+    "text_preview": "Beginning around 2002, they founded the subfield of\nartificial general intelligence\n(or \"AGI\"), which had several well-funded institutions by the 2010s. [\n67\n]\nDeep learning\nbegan to dominate industry",
+    "summary": "The field of artificial general intelligence (AGI) emerged around 2002, with deep learning dominating industry benchmarks by 2012. The success of deep learning led to increased interest and funding in AI, with significant advancements in areas like fairness, alignment, and large language models. This growth has sparked intense public discussions on the philosophy and ethics of AI.",
+    "entities": {
+      "people": [
+        "Alan Turing"
+      ],
+      "places": [],
+      "organizations": [
+        "DeepMind",
+        "OpenAI",
+        "Google"
+      ]
+    },
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the current state of artificial general intelligence?",
+      "How has deep learning impacted the field of AI?",
+      "What are the potential ethical implications of advanced AI systems?"
+    ]
+  },
+  {
+    "chunk_id": 25,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 23,
+    "text_preview": "[\n359\n]\nSince we can only observe the behavior of the machine, it does not matter if it is \"actually\" thinking or literally has a \"mind\". Turing notes that\nwe can not determine these things about othe",
+    "summary": "The concept of artificial intelligence (AI) is complex and has been defined in various ways by different researchers and organizations. The Turing test, which measures a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human, has been widely used but also criticized for its limitations. AI researchers such as John McCarthy and Marvin Minsky have proposed alternative definitions of intelligence, focusing on the ability to achieve goals and solve problems.",
+    "entities": {
+      "people": [
+        "Turing",
+        "Russell",
+        "Norvig",
+        "John McCarthy",
+        "Marvin Minsky"
+      ],
+      "places": [],
+      "organizations": [
+        "International Organization for Standardization",
+        "National Institute of Standards and Technology",
+        "European Union"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the definition of artificial intelligence?",
+      "How is AI different from human intelligence?",
+      "What are the limitations of the Turing test?"
+    ]
+  },
+  {
+    "chunk_id": 26,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 24,
+    "text_preview": "In the 1960s, Newell and Simon proposed the\nphysical symbol systems hypothesis\n: \"A physical symbol system has the necessary and sufficient means of general intelligent action.\"\n[\n411\n]\nHowever, the s",
+    "summary": "The physical symbol systems hypothesis proposed by Newell and Simon in the 1960s suggested that a physical symbol system has the necessary and sufficient means of general intelligent action. However, this approach failed on many tasks that humans solve easily, such as learning and recognizing objects. The field of artificial intelligence has since evolved to include sub-symbolic reasoning and neuro-symbolic artificial intelligence, which attempt to bridge the gap between symbolic and sub-symbolic approaches.",
+    "entities": {
+      "people": [
+        "Newell",
+        "Simon",
+        "Hubert Dreyfus",
+        "Noam Chomsky"
+      ],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the physical symbol systems hypothesis?",
+      "How has the field of artificial intelligence evolved over time?",
+      "What are the challenges and limitations of current AI approaches?"
+    ]
+  },
+  {
+    "chunk_id": 27,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 25,
+    "text_preview": "Russell\nand\nNorvig\nadd that \"[t]he additional project of making a machine conscious in exactly the way humans are is not one that we are equipped to take on.\"\n[\n420\n]\nHowever, the question has become ",
+    "summary": "The question of whether machines can be conscious is central to the philosophy of mind and artificial intelligence. David Chalmers identified two problems in understanding the mind: the easy problem of understanding how the brain processes signals and the hard problem of explaining subjective experience. The possibility of AI sentience raises questions about AI welfare and rights, with some arguing that sentient AI should be entitled to certain rights or protection measures.",
+    "entities": {
+      "people": [
+        "Russell",
+        "Norvig",
+        "David Chalmers",
+        "Jerry Fodor",
+        "Hilary Putnam",
+        "John Searle",
+        "Dennett"
+      ],
+      "places": [],
+      "organizations": [
+        "European Union"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "Can machines be conscious?",
+      "What are the implications of AI sentience?",
+      "Should sentient AI be entitled to rights or protection measures?"
+    ]
+  },
+  {
+    "chunk_id": 28,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 26,
+    "text_preview": "They warn that this may be a\nmoral blind spot\nanalogous to\nslavery\nor\nfactory farming\n, which could lead to\nlarge-scale suffering\nif sentient AI is created and carelessly exploited. [\n430\n]\n[\n429\n]\nFu",
+    "summary": "The creation of sentient AI could lead to large-scale suffering if it is carelessly exploited, similar to historical moral blind spots like slavery and factory farming. A superintelligence, possessing intelligence far surpassing human minds, could potentially reprogram and improve itself, leading to an intelligence explosion. This has sparked discussions on transhumanism, the potential merging of humans and machines, and the ethics of artificial intelligence.",
+    "entities": {
+      "people": [
+        "I. J. Good",
+        "Vernor Vinge",
+        "Hans Moravec",
+        "Kevin Warwick",
+        "Ray Kurzweil",
+        "Aldous Huxley",
+        "Robert Ettinger",
+        "Edward Fredkin",
+        "Samuel Butler",
+        "George Dyson",
+        "Karel Čapek",
+        "Mary Shelley",
+        "Arthur C. Clarke",
+        "Stanley Kubrick",
+        "Isaac Asimov"
+      ],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.7
+    },
+    "key_questions": [
+      "What are the potential risks of creating sentient AI?",
+      "How might humans and machines merge in the future?",
+      "What are the implications of artificial intelligence on human ethics and society?"
+    ]
+  },
+  {
+    "chunk_id": 29,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 27,
+    "text_preview": "Artificial Intelligence\nand\nEx Machina\n, as well as the novel\nDo Androids Dream of Electric Sheep? , by\nPhilip K. Dick\n. Dick considers the idea that our understanding of human subjectivity is altered",
+    "summary": "The concept of artificial intelligence has been explored in various fields, including cognitive science, economics, and philosophy. The understanding of human subjectivity is altered by technology created with artificial intelligence, as discussed by Philip K. Dick in his novel Do Androids Dream of Electric Sheep?. The development of artificial intelligence has led to the creation of various tools and techniques, such as expert systems and robotic process automation.",
+    "entities": {
+      "people": [
+        "Philip K. Dick",
+        "Alan Turing",
+        "Ray Solomonoff",
+        "Russell",
+        "Norvig",
+        "Luger",
+        "Stubblefield",
+        "Poole",
+        "Mackworth",
+        "Goebel",
+        "Nilsson"
+      ],
+      "places": [
+        "European Union"
+      ],
+      "organizations": [
+        "Association for the Advancement of Artificial Intelligence",
+        "European Medicines Agency"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the impact of artificial intelligence on human subjectivity?",
+      "How has the development of artificial intelligence led to the creation of new tools and techniques?",
+      "What are the potential applications of artificial intelligence in various fields?"
+    ]
+  },
+  {
+    "chunk_id": 30,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 28,
+    "text_preview": "[\n42\n]\n^\nSee\nAI winter § Machine translation and the ALPAC report of 1966\n. ^\nCompared with symbolic logic, formal Bayesian inference is computationally expensive. For inference to be tractable, most ",
+    "summary": "The development of machine learning and artificial intelligence has a long history, with early work by researchers such as Warren S. McCulloch and Walter Pitts in the 1940s. The field has evolved over time, with the development of new algorithms and techniques, including deep neural networks and backpropagation. Today, AI is being used in a wide range of applications, but also raises concerns about bias and fairness.",
+    "entities": {
+      "people": [
+        "Warren S. McCulloch",
+        "Walter Pitts",
+        "Alan Turing",
+        "Karl Steinbuch",
+        "Roger David Joseph",
+        "Frank Rosenblatt",
+        "Oliver Selfridge",
+        "Alexey Ivakhnenko",
+        "Valentin Lapa",
+        "Kaoru Nakano",
+        "Shun-Ichi Amari",
+        "John Joseph Hopfield",
+        "Henry J. Kelley",
+        "Arthur E. Bryson",
+        "Stuart Dreyfus",
+        "Yu-Chi Ho",
+        "Seppo Linnainmaa",
+        "Paul Werbos",
+        "Geoffrey Hinton",
+        "Jon Kleinberg",
+        "Sendhil Mullainathan",
+        "Cynthia Chouldechova",
+        "Sam Corbett-Davis",
+        "Moritz Hardt"
+      ],
+      "places": [
+        "Cornell University",
+        "University of Chicago",
+        "Carnegie Mellon",
+        "Stanford",
+        "United Nations",
+        "Max Planck Institute for Intelligent Systems"
+      ],
+      "organizations": [
+        "OECD",
+        "AdSense"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the history of machine learning and artificial intelligence?",
+      "How are deep neural networks and backpropagation used in AI?",
+      "What are the concerns about bias and fairness in AI systems?"
+    ]
+  },
+  {
+    "chunk_id": 31,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 29,
+    "text_preview": "[\n355\n]\n[\n357\n]\n^\nDaniel Crevier wrote, \"the conference is generally recognized as the official birthdate of the new science.\"\n[\n360\n]\nRussell\nand\nNorvig\ncalled the conference \"the inception of artifi",
+    "summary": "The Dartmouth conference is considered the birthplace of artificial intelligence, where the field was dominated by its founders and their students for 20 years. The early systems, such as checkers programs and Logic Theorist, failed on more difficult problems, but the field has since evolved with the development of deep learning and other approaches. Today, AI has become a major area of research and development, with tech companies aiming to build artificial general intelligence.",
+    "entities": {
+      "people": [
+        "Daniel Crevier",
+        "Russell",
+        "Norvig",
+        "Arthur Samuel",
+        "Daniel Bobrow",
+        "Newell",
+        "Simon",
+        "Terry Winograd",
+        "Hans Moravec",
+        "Rodney Brooks",
+        "Matteo Wong",
+        "Jack Clark",
+        "Nils Nilsson",
+        "Searle",
+        "Dreyfus",
+        "McCarthy"
+      ],
+      "places": [],
+      "organizations": [
+        "IBM",
+        "Google",
+        "Bloomberg",
+        "The Atlantic",
+        "AP News"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the significance of the Dartmouth conference in the history of artificial intelligence?",
+      "How have approaches to AI evolved over time?",
+      "What are the current goals and challenges in the development of artificial general intelligence?"
+    ]
+  },
+  {
+    "chunk_id": 32,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 30,
+    "text_preview": "(1955)\n^\na\nb\nSuccessful programs of the 1960s:\nMcCorduck (2004\n, pp. 243-252),\nCrevier (1993\n, pp. 52-107),\nMoravec (1988\n, p. 9),\nRussell & Norvig (2021\n, pp. 19-21)\n^\na\nb\nFunding initiatives in the ",
+    "summary": "The text discusses the history and development of artificial intelligence, including successful programs in the 1960s, funding initiatives in the 1980s, and the AI Winter. It also covers various topics in AI, such as problem-solving, uncertain reasoning, and knowledge representation. The text references several authors and their works, including Russell & Norvig, McCorduck, and Crevier.",
+    "entities": {
+      "people": [
+        "McCorduck",
+        "Crevier",
+        "Moravec",
+        "Russell",
+        "Norvig",
+        "Kahneman",
+        "Dreyfus",
+        "Wason",
+        "Shapiro",
+        "Tversky",
+        "Lighthill",
+        "Mansfield",
+        "Howe",
+        "Newquist",
+        "Toews",
+        "Poole",
+        "Mackworth",
+        "Goebel",
+        "Luger",
+        "Stubblefield",
+        "Nilsson"
+      ],
+      "places": [
+        "Japan",
+        "UK",
+        "US"
+      ],
+      "organizations": [
+        "Microelectronics and Computer Technology Corporation",
+        "Strategic Computing Initiative",
+        "NRC",
+        "McKinsey"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What were the key developments in AI in the 1960s and 1980s?",
+      "What are the main topics covered in AI research?",
+      "How have authors like Russell & Norvig and McCorduck contributed to the field of AI?"
+    ]
+  },
+  {
+    "chunk_id": 33,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 31,
+    "text_preview": "23-46, 69-81, 169-233, 235-277, 281-298, 319-345),\nLuger & Stubblefield (2004\n, pp. 227-243),\nNilsson (1998\n, chpt. 17.1-17.4, 18)\n^\nSmoliar & Zhang (1994)\n. ^\nNeumann & Möller (2008)\n. ^\nKuperman, Re",
+    "summary": "The text discusses various topics in artificial intelligence, including knowledge representation, reasoning, and planning. It covers different approaches to representing categories, events, and time, as well as methods for default reasoning and automated decision making. The text also references several authors and their works, including Russell & Norvig, Luger & Stubblefield, and Nilsson.",
+    "entities": {
+      "people": [
+        "Russell",
+        "Norvig",
+        "Luger",
+        "Stubblefield",
+        "Nilsson",
+        "Poole",
+        "Mackworth",
+        "Goebel",
+        "Lenat",
+        "Guha",
+        "Crevier",
+        "Moravec",
+        "Newquist",
+        "Bertini",
+        "Del Bimbo",
+        "Torniai",
+        "Kuperman",
+        "Reichley",
+        "Bailey",
+        "McGarry",
+        "Smoliar",
+        "Zhang",
+        "Neumann",
+        "Möller"
+      ],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the different approaches to knowledge representation?",
+      "How do default reasoning and automated decision making work?",
+      "What are the key challenges in artificial intelligence planning?"
+    ]
+  },
+  {
+    "chunk_id": 34,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 32,
+    "text_preview": "^\nTrust, interpretability, and explainability:\nRussell & Norvig (2021\n, Section 19.9.4). ^\nUncertain preferences:\nRussell & Norvig (2021\n, Section 16.7)\nInverse reinforcement learning\n:\nRussell & Norv",
+    "summary": "The text discusses various topics in artificial intelligence, including trust, interpretability, and explainability, as well as machine learning concepts such as supervised, unsupervised, and reinforcement learning. It also covers natural language processing, computer vision, and other related areas. The text references several sources, including Russell & Norvig, Poole, Mackworth & Goebel, and Luger & Stubblefield.",
+    "entities": {
+      "people": [
+        "Russell",
+        "Norvig",
+        "Turing",
+        "Solomonoff",
+        "Poole",
+        "Mackworth",
+        "Goebel",
+        "Luger",
+        "Stubblefield",
+        "Nilsson",
+        "Jordan",
+        "Mitchell",
+        "Cambria",
+        "White",
+        "Vincent",
+        "Dickson",
+        "Bushwick",
+        "Challa"
+      ],
+      "places": [],
+      "organizations": [
+        "The Economist",
+        "Built In"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key concepts in artificial intelligence?",
+      "How do machine learning and natural language processing relate to AI?",
+      "What are some of the main challenges and applications in computer vision and NLP?"
+    ]
+  },
+  {
+    "chunk_id": 35,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 33,
+    "text_preview": "931-938. ^\nMIT AIL (2014)\n. ^\nAffective computing\n:\nThro (1993)\n,\nEdelson (1991)\n,\nTao & Tan (2005)\n,\nScassellati (2002)\n^\nWaddell (2018)\n. ^\nPoria et al. (2017)\n. ^\na\nb\nArtificial general intelligenc",
+    "summary": "The text discusses various topics in artificial intelligence, including affective computing, artificial general intelligence, state space search, and logical inference. It references several researchers and their works, such as Russell & Norvig, and covers different types of searches, including uninformed and heuristic searches. The text also touches on evolutionary computation, propositional logic, and first-order logic.",
+    "entities": {
+      "people": [
+        "Russell",
+        "Norvig",
+        "Thro",
+        "Edelson",
+        "Tao",
+        "Tan",
+        "Scassellati",
+        "Waddell",
+        "Poria",
+        "Pennachin",
+        "Goertzel",
+        "Nilsson",
+        "McCarthy",
+        "Beal",
+        "Winston",
+        "Poole",
+        "Mackworth",
+        "Goebel",
+        "Luger",
+        "Stubblefield",
+        "Merkle",
+        "Middendorf",
+        "Singh Chauhan",
+        "Nagesh"
+      ],
+      "places": [],
+      "organizations": [
+        "MIT",
+        "KDnuggets"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the different types of searches in artificial intelligence?",
+      "How do affective computing and artificial general intelligence relate to each other?",
+      "What are the key concepts in logical inference and deduction?"
+    ]
+  },
+  {
+    "chunk_id": 36,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 34,
+    "text_preview": "4.2, 7.2)\n^\nResolution\nand\nunification\n:\nRussell & Norvig (2021\n, sections 7.5.2, 9.2, 9.5)\n^\nWarren, D.H.; Pereira, L.M.; Pereira, F. (1977). \"Prolog-the language and its implementation compared with",
+    "summary": "The text discusses various topics in artificial intelligence, including resolution and unification, fuzzy logic, stochastic methods for uncertain reasoning, decision theory, and Bayesian networks. It references several sources, including Russell & Norvig, Warren, Pereira, and Domingos. The text provides an overview of different concepts and techniques in AI, highlighting their importance and applications.",
+    "entities": {
+      "people": [
+        "Russell",
+        "Norvig",
+        "Warren",
+        "Pereira",
+        "Domingos",
+        "Poole",
+        "Mackworth",
+        "Goebel",
+        "Luger",
+        "Stubblefield",
+        "Nilsson"
+      ],
+      "places": [],
+      "organizations": [
+        "ACM SIGPLAN"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key concepts in artificial intelligence?",
+      "How do Bayesian networks apply to decision theory?",
+      "What are the main differences between stochastic methods and fuzzy logic?"
+    ]
+  },
+  {
+    "chunk_id": 37,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 35,
+    "text_preview": "16.5)\n^\nStatistical learning methods and\nclassifiers\n:\nRussell & Norvig (2021\n, chpt. 20),\n^\nCiaramella, Alberto\n; Ciaramella, Marco (2024). Introduction to Artificial Intelligence: from data analysis",
+    "summary": "The text discusses various statistical learning methods and classifiers, including decision trees, non-parametric learning models, and neural networks. It also covers topics such as gradient calculation, backpropagation, and deep learning. The text references several sources, including Russell & Norvig, Domingos, and Schmidhuber, to provide a comprehensive overview of the subject.",
+    "entities": {
+      "people": [
+        "Russell",
+        "Norvig",
+        "Ciaramella",
+        "Alberto Ciaramella",
+        "Marco Ciaramella",
+        "Domingos",
+        "Luger",
+        "Stubblefield",
+        "Nilsson",
+        "Cybenko",
+        "Hornik",
+        "Stinchcombe",
+        "White",
+        "Goodfellow",
+        "Bengio",
+        "Courville",
+        "Hinton",
+        "Schmidhuber",
+        "Sindhu V",
+        "Nivedha S",
+        "Prakash M",
+        "Deng",
+        "Yu",
+        "Ciresan",
+        "Meier"
+      ],
+      "places": [],
+      "organizations": [
+        "Intellisemantic Editions",
+        "Journal of Mechanics of Continua and Mathematical Sciences"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the different types of statistical learning methods?",
+      "How do neural networks work?",
+      "What are some key applications of deep learning?"
+    ]
+  },
+  {
+    "chunk_id": 38,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 36,
+    "text_preview": "^\nQuoted in\nChristian (2020\n, p. 22)\n^\nMetz, Cade; Weise, Karen (5 May 2025). \"A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful\"\n. The New York Times\n. ISSN\n0362-4331\n. ",
+    "summary": "Recent advancements in artificial intelligence have led to significant breakthroughs in various fields, including healthcare and technology. AI has been used to discover new classes of antibiotics, speed up drug design for diseases such as Parkinson's, and improve protein structure prediction. These developments have the potential to revolutionize numerous industries and improve human lives.",
+    "entities": {
+      "people": [
+        "Jensen Huang",
+        "Marc Benioff",
+        "Metz",
+        "Weise",
+        "Smith",
+        "Marmouyet",
+        "Kobielus",
+        "Thomason",
+        "Wodecki",
+        "Plumb",
+        "Mims",
+        "Dankwa-Mullan",
+        "Jumper",
+        "Evans",
+        "Pritzel",
+        "Horne",
+        "Andrzejewska",
+        "Alam",
+        "Brotzakis"
+      ],
+      "places": [],
+      "organizations": [
+        "The New York Times",
+        "MIT",
+        "MIT Sloan",
+        "VentureBeat",
+        "AI Business",
+        "Wall Street Journal",
+        "Nvidia",
+        "University of Cambridge"
+      ]
+    },
+    "sentiment": {
+      "label": "positive",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the recent advancements in artificial intelligence?",
+      "How is AI being used in healthcare and technology?",
+      "What are the potential benefits and risks of AI development?"
+    ]
+  },
+  {
+    "chunk_id": 39,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 37,
+    "text_preview": "Faidon; Srivastava, Ankit; Aubert, Alice; Nowinska, Magdalena; Gregory, Rebecca C.; Staats, Roxine; Possenti, Andrea; Chia, Sean; Sormanni, Pietro; Ghetti, Bernardino; Caughey, Byron; Knowles, Tuomas ",
+    "summary": "Recent advancements in artificial intelligence have led to significant breakthroughs in various fields, including the development of potent inhibitors of α-synuclein aggregation and the creation of AI systems that can play complex games like chess, Go, and StarCraft II. These AI systems have demonstrated superhuman abilities, outperforming human champions and achieving grandmaster status. The development of these AI systems has been driven by advances in machine learning and deep reinforcement learning.",
+    "entities": {
+      "people": [
+        "Faidon",
+        "Ankit Srivastava",
+        "Alice Aubert",
+        "Magdalena Nowinska",
+        "Rebecca C. Gregory",
+        "Roxine Staats",
+        "Andrea Possenti",
+        "Sean Chia",
+        "Pietro Sormanni",
+        "Bernardino Ghetti",
+        "Byron Caughey",
+        "Tuomas P. J. Knowles",
+        "Michele Vendruscolo",
+        "Eugene F. Grant",
+        "Rex Lardner",
+        "Mark Robert Anderson",
+        "John Markoff",
+        "Sam Byford",
+        "Noam Brown",
+        "Tuomas Sandholm",
+        "Ian Sample",
+        "P. R. Wurman",
+        "S. Barrett",
+        "K. Kawamoto",
+        "Alex Wilkins",
+        "Carl Franzen"
+      ],
+      "places": [],
+      "organizations": [
+        "Nature",
+        "The New Yorker",
+        "The Conversation",
+        "The New York Times",
+        "The Verge",
+        "Google DeepMind",
+        "The Guardian",
+        "Google",
+        "Alibaba",
+        "VentureBeat"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the recent advancements in artificial intelligence?",
+      "How have AI systems demonstrated superhuman abilities in complex games?",
+      "What are the potential applications of these AI systems in various fields?"
+    ]
+  },
+  {
+    "chunk_id": 40,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 38,
+    "text_preview": "Retrieved\n16 February\n2025\n. ^\nFranzen, Carl (9 January 2025). \"Microsoft's new rStar-Math technique upgrades small models to outperform OpenAI's o1-preview at math problems\"\n. VentureBeat\n. Retrieved",
+    "summary": "Recent advancements in artificial intelligence have led to significant improvements in math problem-solving capabilities, with AI systems outperforming human competitors in certain areas. AI has also been applied in various fields, including finance, national security, and warfare, raising concerns about its potential impact. Researchers and experts are exploring the possibilities and limitations of AI, including its potential to revolutionize industries and transform the way we live and work.",
+    "entities": {
+      "people": [
+        "Carl Franzen",
+        "Siobhan Roberts",
+        "Cade Metz",
+        "M. Nicolas",
+        "J. Firzli",
+        "Vadym Slyusar",
+        "Amjad Iraqi",
+        "Harry Davies",
+        "Bethan McKernan",
+        "Dan Sabbagh",
+        "J Werner Marti",
+        "Leonardo Banh",
+        "Gero Strobel",
+        "Adam Pasick"
+      ],
+      "places": [
+        "Gaza",
+        "Ukraine",
+        "Israel",
+        "Washington, DC"
+      ],
+      "organizations": [
+        "Microsoft",
+        "OpenAI",
+        "IEEE",
+        "The New York Times",
+        "Google",
+        "Congressional Research Service"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the recent advancements in AI's math problem-solving capabilities?",
+      "How is AI being applied in various fields, including finance and national security?",
+      "What are the potential implications and limitations of AI's increasing presence in our lives?"
+    ]
+  },
+  {
+    "chunk_id": 41,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 39,
+    "text_preview": "^\nGriffith, Erin; Metz, Cade (27 January 2023). \"Anthropic Said to Be Closing In on $300 Million in New A.I. Funding\"\n. The New York Times\n. Archived\nfrom the original on 9 December 2023\n. Retrieved\n1",
+    "summary": "Recent articles have discussed the rapid development and funding of generative AI, with companies like Anthropic and OpenAI making significant advancements. The technology has the potential to transform various industries, including healthcare, finance, and entertainment. However, there are also concerns about the impact of AI on jobs and human creativity.",
+    "entities": {
+      "people": [
+        "Erin Griffith",
+        "Cade Metz",
+        "Nate Lanxon",
+        "Dina Bass",
+        "Jackie Davalos",
+        "Kevin Roose",
+        "Tal Shahaf",
+        "Marium M. Raza",
+        "Kaushik P. Venkatesh",
+        "Joseph C. Kvedar",
+        "Emmanuel Mogaji",
+        "Thomas H. Davenport",
+        "Randy Bean",
+        "Erik Brynjolfsson",
+        "Danielle Li",
+        "Lindsey R. Raymond",
+        "Jake Coyle",
+        "David Poole",
+        "Alan Mackworth"
+      ],
+      "places": [],
+      "organizations": [
+        "Anthropic",
+        "OpenAI",
+        "The New York Times",
+        "Bloomberg News",
+        "Ynetglobal",
+        "MIT Sloan Management Review",
+        "The Conversation",
+        "AP News",
+        "The Economist",
+        "Harvard Business Review",
+        "Associated Press"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the recent developments in generative AI?",
+      "How will generative AI impact various industries?",
+      "What are the potential risks and benefits of adopting generative AI?"
+    ]
+  },
+  {
+    "chunk_id": 42,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 40,
+    "text_preview": "Artificial Intelligence, Foundations of Computational Agents\n(3rd ed.). Cambridge University Press. doi\n:\n10.1017/9781009258227\n. ISBN\n978-1-0092-5819-7\n. ^\nRussell, Stuart; Norvig, Peter (2020). Arti",
+    "summary": "The provided text discusses various aspects of artificial intelligence, including its applications, research, and implications. It covers topics such as generative AI, AI-powered chatbots, and the use of AI in fields like fertility tracking and sex education. The text also touches on the potential risks and challenges associated with AI, including its potential for misuse in areas like online child sexual abuse and deepfake pornography.",
+    "entities": {
+      "people": [
+        "Russell, Stuart",
+        "Norvig, Peter",
+        "Peters, Jay",
+        "Wiggers, Kyle",
+        "Levy, Karyne",
+        "Figueiredo, Mayara Costa",
+        "Ankrah, Elizabeth",
+        "Powell, Jacquelyn E.",
+        "Epstein, Daniel A.",
+        "Chen, Yunan",
+        "Power, Jennifer",
+        "Pym, Tinonee",
+        "James, Alexandra",
+        "Waling, Andrea",
+        "Marcantonio, Tiffany L.",
+        "Avery, Gracie",
+        "Thrash, Anna",
+        "Leone, Ruschelle M.",
+        "Hanson, Kenneth R.",
+        "Bolthouse, Hannah",
+        "Mania, Karolina",
+        "Singh, Suyesha",
+        "Nambiar, Vaishnavi"
+      ],
+      "places": [],
+      "organizations": [
+        "Cambridge University Press",
+        "Pearson",
+        "McKinsey Digital",
+        "The Verge",
+        "TechCrunch",
+        "Google",
+        "ACM",
+        "Reddit",
+        "European Union"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current applications of artificial intelligence?",
+      "How is AI being used in research and development?",
+      "What are the potential risks and challenges associated with AI?"
+    ]
+  },
+  {
+    "chunk_id": 43,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 41,
+    "text_preview": "Journal of Applied Security Research\n. 19\n(4):\n586-\n627. doi\n:\n10.1080/19361610.2024.2331885\n. ^\nRazi, Afsaneh; Kim, Seunghyun; Alsoubai, Ashwaq; Stringhini, Gianluca; Solorio, Thamar;\nDe Choudhury, M",
+    "summary": "The provided text is a collection of research papers and articles related to artificial intelligence, its applications, and its potential impact on society. The papers cover various topics, including online sexual risk detection, evacuation modeling, and the use of AI in elections. The articles also discuss the potential benefits and risks of AI and how it can be used to benefit humanity.",
+    "entities": {
+      "people": [
+        "Afsaneh Razi",
+        "Seunghyun Kim",
+        "Ashwaq Alsoubai",
+        "Gianluca Stringhini",
+        "Thamar Solorio",
+        "Munmun De Choudhury",
+        "Pamela J. Wisniewski",
+        "Sam Ransbotham",
+        "David Kiron",
+        "Philipp Gerbert",
+        "Martin Reeves",
+        "Yuran Sun",
+        "Xilei Zhao",
+        "Ruggiero Lovreglio",
+        "Erica Kuligowski",
+        "Islam Gomaa",
+        "Masoud Adelzadeh",
+        "Steven Gwynne",
+        "Bruce Spencer",
+        "Yoon Ko",
+        "Noureddine Bénichou",
+        "Chunyun Ma",
+        "Nour Elsagan",
+        "Dana Duong",
+        "Ehab Zalok",
+        "Max Kinateder",
+        "Daron Asemoglu",
+        "Margarita Lyutova"
+      ],
+      "places": [
+        "India"
+      ],
+      "organizations": [
+        "MIT",
+        "PBS News",
+        "Meduza",
+        "The Hindu",
+        "ACM"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the potential applications of artificial intelligence in various fields?",
+      "How can AI be used to benefit humanity?",
+      "What are the potential risks and challenges associated with the use of AI?"
+    ]
+  },
+  {
+    "chunk_id": 44,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 42,
+    "text_preview": "Retrieved\n21 June\n2023\n. ^\nMüller, Vincent C. (30 April 2020). \"Ethics of Artificial Intelligence and Robotics\"\n. Stanford Encyclopedia of Philosophy Archive\n. Archived\nfrom the original on 5 October ",
+    "summary": "The text discusses the development and implications of artificial intelligence, including its risks, benefits, and policy imperatives. It cites various sources, including academic papers and news articles, to provide an overview of the current state of AI research and its potential impact on society. The text also touches on the role of big tech companies in the pursuit of AI dominance and the need for innovation ecosystems to be prepared for AI.",
+    "entities": {
+      "people": [
+        "Müller",
+        "Simonite",
+        "Russell",
+        "Norvig",
+        "Laskowski",
+        "Valinsky",
+        "Christian",
+        "Vincent",
+        "Kopel",
+        "Burgess",
+        "Shilov",
+        "Reisner",
+        "Alter",
+        "Harris",
+        "Hammond",
+        "Wong",
+        "Fung",
+        "Metz",
+        "Bhattarai",
+        "Lerman",
+        "Coren"
+      ],
+      "places": [],
+      "organizations": [
+        "Stanford Encyclopedia of Philosophy",
+        "OECD",
+        "GAO",
+        "Cornell University Library",
+        "Wired",
+        "Reuters",
+        "Tom's Hardware",
+        "WIPO",
+        "Ars Technica",
+        "The Atlantic",
+        "The Economist",
+        "CNN Business",
+        "The New York Times",
+        "The Washington Post",
+        "MSCI"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the potential risks and benefits of artificial intelligence?",
+      "How are big tech companies pursuing AI dominance?",
+      "What are the implications of AI for society and the economy?"
+    ]
+  },
+  {
+    "chunk_id": 45,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 43,
+    "text_preview": "IEA\n. 24 January 2024\n. Retrieved\n13 July\n2024\n. ^\nCalvert, Brian (28 March 2024). \"AI already uses as much energy as a small country. It's only the beginning\"\n. Vox\n. New York, New York. Archived\nfro",
+    "summary": "The increasing use of artificial intelligence (AI) is leading to a significant surge in energy demand, with tech firms seeking solutions to power their AI systems. The energy consumption of AI is comparable to that of a small country, and the International Energy Agency has noted the growing energy needs of AI data centers. As a result, companies are exploring new power sources, including nuclear energy, to meet the demands of their AI operations.",
+    "entities": {
+      "people": [
+        "Brian Calvert",
+        "Evan Halper",
+        "Caroline O'Donovan",
+        "Carly Davenport",
+        "Carol Ryan",
+        "Jennifer Hiller",
+        "Niva Yadav",
+        "Takashi Mochizuki",
+        "Shoko Oda",
+        "Naureen S Malik",
+        "Will Wade",
+        "Lee Rainie",
+        "Scott Keeter",
+        "Andrew Perrin",
+        "Maya Kosoff",
+        "David M. Berry"
+      ],
+      "places": [
+        "New York",
+        "Taiwan",
+        "Japan",
+        "Three Mile Island"
+      ],
+      "organizations": [
+        "Vox",
+        "The Washington Post",
+        "Goldman Sachs",
+        "Wall Street Journal",
+        "Dow Jones",
+        "Microsoft",
+        "DatacenterDynamics",
+        "Bloomberg",
+        "International Energy Agency",
+        "Pew Research Center",
+        "YouTube",
+        "Vanity Fair"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "How is the increasing use of AI affecting energy demand?",
+      "What solutions are tech firms exploring to power their AI systems?",
+      "What are the potential consequences of the growing energy needs of AI data centers?"
+    ]
+  },
+  {
+    "chunk_id": 46,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 44,
+    "text_preview": "^\n\"Unreal: A quantum leap in AI video\"\n. The Week\n. 17 June 2025\n. Retrieved\n20 June\n2025\n. ^\nSnow, Jackie (16 June 2025). \"AI video is getting real. Beware what comes next\"\n. Quartz\n. Retrieved\n20 Ju",
+    "summary": "Recent advancements in AI video technology have led to the creation of convincing deepfakes, which can be used to manipulate public opinion and spread misinformation. Researchers and experts are warning about the potential dangers of this technology, including its potential to be used in election fraud and propaganda. As AI technology continues to evolve, it is becoming increasingly important to develop methods to detect and prevent the spread of false information.",
+    "entities": {
+      "people": [
+        "Jackie Snow",
+        "Andrew R. Chow",
+        "Billy Perrigo",
+        "Samson Olufemi Olanipekun",
+        "Sigal Samuel"
+      ],
+      "places": [],
+      "organizations": [
+        "Google",
+        "Quartz",
+        "Time",
+        "The Register",
+        "Vox"
+      ]
+    },
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the potential dangers of AI-generated deepfakes?",
+      "How can we detect and prevent the spread of false information created by AI?",
+      "What are the implications of AI-generated propaganda on democracy and public opinion?"
+    ]
+  },
+  {
+    "chunk_id": 47,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 45,
+    "text_preview": "39-40, 65)\n^\nQuoted in\nChristian (2020\n, p. 65). ^\nRussell & Norvig (2021\n, p. 994);\nChristian (2020\n, pp. 40, 80-81)\n^\nQuoted in\nChristian (2020\n, p. 80)\n^\nHundt, Andrew; Agnew, William; Zeng, Vicky;",
+    "summary": "A study found that robots can enact malignant stereotypes due to flawed AI, leading to racist and sexist behavior. The study, presented at the 2022 ACM Conference on Fairness, Accountability, and Transparency, highlights the need for more accessible and transparent AI systems. Researchers have been working to address these issues and improve the fairness and accountability of AI systems.",
+    "entities": {
+      "people": [
+        "Hundt, Andrew",
+        "Agnew, William",
+        "Zeng, Vicky",
+        "Kacianka, Severin",
+        "Gombolay, Matthew",
+        "Ropek, Lucas",
+        "Russell",
+        "Norvig",
+        "Christian",
+        "Verma",
+        "Rothman",
+        "Harari",
+        "Buckley, Chris",
+        "Mozur, Paul",
+        "Whittaker, Zack",
+        "Urbina",
+        "McGaughey",
+        "Ford",
+        "Colvin",
+        "Arntz, Gregory",
+        "Zierahn",
+        "Lohr",
+        "Frey",
+        "Osborne"
+      ],
+      "places": [
+        "Seoul, South Korea",
+        "Georgia",
+        "China"
+      ],
+      "organizations": [
+        "Association for Computing Machinery",
+        "Georgia Tech",
+        "ScienceDaily",
+        "Gizmodo",
+        "The New York Times",
+        "TechCrunch",
+        "IGM Chicago"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the implications of flawed AI on robot behavior?",
+      "How can AI systems be made more transparent and accountable?",
+      "What are the potential consequences of racist and sexist AI systems?"
+    ]
+  },
+  {
+    "chunk_id": 48,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 46,
+    "text_preview": "33)\n^\nZhou, Viola (11 April 2023). \"AI is already taking video game illustrators' jobs in China\"\n. Rest of World\n. Archived\nfrom the original on 21 February 2024\n. Retrieved\n17 August\n2023\n. ^\nCarter,",
+    "summary": "The use of artificial intelligence (AI) is having significant impacts on various industries, including the video game industry in China, where AI is taking jobs from illustrators. AI is also expected to have a major impact on white-collar jobs, with Ford's CEO warning that it could wipe out half of these jobs. The increasing use of AI is also raising concerns about its potential to deceive users and replace human interactions.",
+    "entities": {
+      "people": [
+        "Zhou",
+        "Carter",
+        "Morgenstern",
+        "Mahdawi",
+        "Thompson",
+        "Ma",
+        "Jason",
+        "Jim Farley",
+        "Tarnoff",
+        "Kühne",
+        "Peter",
+        "Reeves",
+        "Nass",
+        "Salles",
+        "Evers",
+        "Farisco",
+        "Jargon",
+        "Watwe",
+        "Cellan-Jones",
+        "Russell",
+        "Norvig",
+        "Bostrom"
+      ],
+      "places": [
+        "China",
+        "New York"
+      ],
+      "organizations": [
+        "Rest of World",
+        "Game Developer",
+        "Stanford Digital Economy Lab",
+        "Ford",
+        "Fortune",
+        "The Guardian Weekly",
+        "Cambridge University Press",
+        "Wall Street Journal",
+        "Bloomberg Law"
+      ]
+    },
+    "sentiment": {
+      "label": "negative",
+      "confidence": 0.7
+    },
+    "key_questions": [
+      "How is AI impacting the job market in various industries?",
+      "What are the potential consequences of relying on AI for social interactions?",
+      "Can AI truly replace human interactions and emotions?"
+    ]
+  },
+  {
+    "chunk_id": 49,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 47,
+    "text_preview": "^\nRussell (2019)\n. ^\nBostrom (2014)\n;\nMüller & Bostrom (2014)\n;\nBostrom (2015)\n. ^\nHarari (2023)\n. ^\nStewart (2025)\n. ^\nMüller & Bostrom (2014)\n. ^\nLeaders' concerns about the existential risks of AI ",
+    "summary": "The text discusses the existential risks of AI, with various experts weighing in on the potential dangers and benefits. Some, like Geoffrey Hinton, express concerns about AI outsmarting humanity, while others, such as Yann LeCun, argue that AI is not an imminent risk. The debate surrounding AI's impact and potential continues among leaders and experts in the field.",
+    "entities": {
+      "people": [
+        "Geoffrey Hinton",
+        "Yann LeCun",
+        "Russell",
+        "Bostrom",
+        "Müller",
+        "Harari",
+        "Stewart",
+        "Rawlinson",
+        "Holley",
+        "Gibbs",
+        "Sainato",
+        "Pittis",
+        "Valance",
+        "Taylor",
+        "Colton",
+        "Jones",
+        "McMorrow",
+        "Andrew Ng",
+        "Will Douglas Heaven",
+        "Levy",
+        "Brooks",
+        "Geist",
+        "Madrigal",
+        "Lee",
+        "Christian",
+        "Yudkowsky",
+        "Anderson"
+      ],
+      "places": [],
+      "organizations": [
+        "CBS News",
+        "CBC",
+        "Bloomberg BNN",
+        "The Guardian",
+        "Fox News",
+        "Forbes",
+        "Financial Times",
+        "MIT Technology Review",
+        "Wired",
+        "AAAI"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.6
+    },
+    "key_questions": [
+      "What are the existential risks of AI?",
+      "How do experts view the potential dangers and benefits of AI?",
+      "What is the current state of the debate surrounding AI's impact and potential?"
+    ]
+  },
+  {
+    "chunk_id": 50,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 48,
+    "text_preview": "\"Hugging Face CEO says he's focused on building a 'sustainable model' for the $4.5 billion open-source-AI startup\"\n. Business Insider\n. Archived\nfrom the original on 25 September 2024\n. Retrieved\n14 A",
+    "summary": "The CEO of Hugging Face is focused on building a sustainable model for the $4.5 billion open-source-AI startup. The open-source AI boom is built on Big Tech's handouts, but its longevity is uncertain. Various companies and organizations are working on developing and regulating AI models to ensure their safety and ethics.",
+    "entities": {
+      "people": [
+        "Kyle Wiggers",
+        "Will Douglas Heaven",
+        "Sascha Brodsky",
+        "Benj Edwards",
+        "Matt Marshall",
+        "Kelsey Piper",
+        "Luciano Floridi",
+        "Josh Cowls",
+        "Banu Buruk",
+        "Perihan Elif Ekmekci",
+        "Berna Arda",
+        "Manoj Kumar Kamila",
+        "Sahil Singh Jasrotia"
+      ],
+      "places": [],
+      "organizations": [
+        "Hugging Face",
+        "Google",
+        "MIT Technology Review",
+        "Mistral AI",
+        "Ars Technica",
+        "VentureBeat",
+        "Vox",
+        "Alan Turing Institute",
+        "Harvard Data Science Review",
+        "UK Government",
+        "AI Safety Institute"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the current state of open-source AI development?",
+      "How are companies and organizations regulating AI models to ensure safety and ethics?",
+      "What are the potential risks and benefits of open-source AI models?"
+    ]
+  },
+  {
+    "chunk_id": 51,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 49,
+    "text_preview": "(2019)\n,\nBarfield & Pagallo (2018)\n,\nIphofen & Kritikos (2019)\n,\nWirtz, Weyerer & Geyer (2018)\n,\nBuiten (2019)\n^\nLaw Library of Congress (U.S.). Global Legal Research Directorate (2019)\n. ^\na\nb\nVincen",
+    "summary": "The development of artificial intelligence (AI) has been a topic of interest in recent years, with various countries and organizations working on its development and regulation. The UN has launched an independent scientific panel on AI, and countries have agreed to safe and responsible development of frontier AI in the Bletchley Declaration. Researchers and experts have also been discussing the potential benefits and risks of AI, with some expressing hope and others expressing horror at its potential impact.",
+    "entities": {
+      "people": [
+        "Kissinger",
+        "Altman",
+        "Brockman",
+        "Sutskever",
+        "Edwards",
+        "Kasperowicz",
+        "Milmo",
+        "Russell",
+        "Norvig",
+        "Copeland",
+        "McCorduck",
+        "Crevier",
+        "Vincent"
+      ],
+      "places": [
+        "Stanford University",
+        "Europe",
+        "China",
+        "US",
+        "Seoul",
+        "Bletchley"
+      ],
+      "organizations": [
+        "UNESCO",
+        "European Commission",
+        "Council of Europe",
+        "Google",
+        "Reuters",
+        "Fox News",
+        "The Guardian",
+        "Law Library of Congress",
+        "Stanford University",
+        "UN"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.7
+    },
+    "key_questions": [
+      "What are the potential benefits and risks of AI development?",
+      "How are countries and organizations regulating AI development?",
+      "What are the implications of AI on society and the economy?"
+    ]
+  },
+  {
+    "chunk_id": 52,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 50,
+    "text_preview": "27-32),\nRussell & Norvig (2021\n, pp. 8-17),\nMoravec (1988\n, p. 3)\n^\na\nb\nTuring's original publication of the\nTuring test\nin \"\nComputing machinery and intelligence\n\":\nTuring (1950)\nHistorical influence",
+    "summary": "The text discusses the history and development of artificial intelligence, including the Turing test and the influence of various researchers and publications. It also touches on the adoption of formal and narrow methods in the 1990s and the widespread use of AI in the late 1990s. The text references numerous sources, including books and articles by prominent AI researchers.",
+    "entities": {
+      "people": [
+        "Turing",
+        "Russell",
+        "Norvig",
+        "Moravec",
+        "Haugeland",
+        "Crevier",
+        "McCorduck",
+        "Simon",
+        "Minsky",
+        "Lighthill",
+        "Nilsson",
+        "Brooks",
+        "Weng",
+        "Lungarella",
+        "Asada",
+        "Oudeyer",
+        "Kurzweil",
+        "Wong",
+        "Clark",
+        "Sagar",
+        "Ram"
+      ],
+      "places": [],
+      "organizations": [
+        "NRC",
+        "OpenAI",
+        "Analytics India Magazine"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the Turing test and its significance in AI history?",
+      "How has AI developed over the years?",
+      "What are the current trends and applications of AI?"
+    ]
+  },
+  {
+    "chunk_id": 53,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 51,
+    "text_preview": "Archived\nfrom the original on 4 August 2020\n. Retrieved\n15 March\n2023\n. ^\nMilmo, Dan (2 February 2023). \"ChatGPT reaches 100 million users two months after launch\"\n. The Guardian\n. ISSN\n0261-3077\n. Ar",
+    "summary": "ChatGPT has reached 100 million users two months after its launch, and its success says as much about humans as technology. The AI chatbot's rapid growth has sparked discussions about the philosophy of AI and its potential to become conscious. As AI continues to advance, it is crucial to assess its power and promise, as well as its limitations and potential biases.",
+    "entities": {
+      "people": [
+        "Dan Milmo",
+        "Tim Gorichanaz",
+        "Anthony Grayling",
+        "Brian Ball",
+        "Oshan Jarow",
+        "John McCarthy",
+        "Cameron Domenico Kirk-Giannini",
+        "Simon Goldstein",
+        "Alan Turing",
+        "Stuart Russell",
+        "Peter Norvig",
+        "Marvin Minsky",
+        "Lucy Suchman",
+        "Rainer Rehak",
+        "George Musser"
+      ],
+      "places": [],
+      "organizations": [
+        "The Guardian",
+        "The Conversation",
+        "PitchBook",
+        "Vox",
+        "Stanford University",
+        "ACM"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the significance of ChatGPT reaching 100 million users?",
+      "Can AI ever become conscious?",
+      "How can we assess the power and promise of AI?"
+    ]
+  },
+  {
+    "chunk_id": 54,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 52,
+    "text_preview": "^\nInformation technology - Artificial intelligence - Artificial intelligence concepts and terminology\n, BSI British Standards,\ndoi\n:\n10.3403/30467396\n^\n\"Regulation - EU - 2024/1689 - EN\"\n. EUR-Lex\n. R",
+    "summary": "The text discusses various concepts and terminology related to artificial intelligence, including the physical symbol system hypothesis, Moravec's paradox, and Dreyfus' critique of AI. It also touches on historical significance and philosophical implications, citing works by notable authors such as Russell, Norvig, and Searle. The text provides an overview of the development and debates in the field of artificial intelligence.",
+    "entities": {
+      "people": [
+        "Tabassi",
+        "Nilsson",
+        "Haugeland",
+        "Newell",
+        "Simon",
+        "McCorduck",
+        "Russell",
+        "Norvig",
+        "Moravec",
+        "Minsky",
+        "Pinker",
+        "Dreyfus",
+        "Crevier",
+        "Fearn",
+        "Langley",
+        "Katz",
+        "Domingos",
+        "Pennachin",
+        "Goertzel",
+        "Roberts",
+        "Chalmers",
+        "Dennett",
+        "Horst",
+        "Searle",
+        "Leith",
+        "Bostrom",
+        "Thomson"
+      ],
+      "places": [
+        "Gaithersburg",
+        "MD",
+        "U.S.",
+        "EU"
+      ],
+      "organizations": [
+        "National Institute of Standards and Technology",
+        "BSI British Standards"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key concepts and terminology in artificial intelligence?",
+      "How has the field of artificial intelligence developed over time?",
+      "What are the philosophical implications of artificial intelligence?"
+    ]
+  },
+  {
+    "chunk_id": 55,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 53,
+    "text_preview": "Archived\nfrom the original on 13 September 2024\n. Retrieved\n23 February\n2024\n. ^\na\nb\nKateman, Brian (24 July 2023). \"AI Should Be Terrified of Humans\"\n. Time\n. Archived\nfrom the original on 25 Septemb",
+    "summary": "The text discusses various topics related to artificial intelligence, including robot rights, the intelligence explosion, and technological singularity. It cites several authors and their works, such as Russell & Norvig, Kurzweil, and Vinge, and mentions different perspectives on AI, including transhumanism and AI as evolution. The text also lists several textbooks on artificial intelligence, including works by Luger, Nilsson, and Poole.",
+    "entities": {
+      "people": [
+        "Brian Kateman",
+        "Jeff Wong",
+        "Alex Hern",
+        "Dana Dovey",
+        "Alice Cuddy",
+        "I. J. Good",
+        "Vernor Vinge",
+        "Edward Fredkin",
+        "George Luger",
+        "William Stubblefield",
+        "Nils Nilsson",
+        "David Poole",
+        "Alan Mackworth",
+        "Randy Goebel"
+      ],
+      "places": [],
+      "organizations": [
+        "Time",
+        "Fast Company",
+        "The Guardian",
+        "Newsweek",
+        "Euronews"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the implications of granting robots personhood status?",
+      "How do experts view the concept of robot rights?",
+      "What are the potential consequences of an intelligence explosion and technological singularity?"
+    ]
+  },
+  {
+    "chunk_id": 56,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 54,
+    "text_preview": "ISBN\n978-1-1071-9539-4\n. Archived\nfrom the original on 7 December 2017\n. Retrieved\n6 December\n2017\n. Rich, Elaine\n; Knight, Kevin; Nair, Shivashankar (2010). Artificial Intelligence\n(3rd ed.). New Del",
+    "summary": "The text provides a list of references and sources related to artificial intelligence, including books, research papers, and online articles. The sources cover various topics in AI, such as its history, development, and applications. The text also mentions several authors and researchers in the field of AI, including Russell, Norvig, and Crevier.",
+    "entities": {
+      "people": [
+        "Elaine Rich",
+        "Kevin Knight",
+        "Shivashankar Nair",
+        "Stuart J. Russell",
+        "Peter Norvig",
+        "Daniel Crevier",
+        "Pamela McCorduck",
+        "H. P. Newquist",
+        "Alexandra Alter",
+        "Elizabeth A. Harris",
+        "Sam Altman",
+        "Greg Brockman",
+        "Ilya Sutskever",
+        "Susan Leigh Anderson",
+        "Michael Anderson",
+        "Melanie Arntz",
+        "Terry Gregory",
+        "Ulrich Zierahn",
+        "M. Asada",
+        "K. Hosoda",
+        "Y. Kuniyoshi",
+        "H. Ishiguro",
+        "T. Inui",
+        "Y. Yoshikawa",
+        "M. Ogino",
+        "C. Yoshida"
+      ],
+      "places": [
+        "New Delhi",
+        "Hoboken",
+        "Upper Saddle River",
+        "New Jersey",
+        "New York",
+        "Natick",
+        "Massachusetts"
+      ],
+      "organizations": [
+        "Tata McGraw Hill India",
+        "Pearson",
+        "Prentice Hall",
+        "BasicBooks",
+        "A. K. Peters",
+        "Macmillan/SAMS",
+        "OpenAI",
+        "The New York Times",
+        "Cambridge University Press",
+        "OECD",
+        "McKinsey & Company"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key sources for artificial intelligence research?",
+      "Who are the prominent authors and researchers in the field of AI?",
+      "What are the main topics covered in the provided text?"
+    ]
+  },
+  {
+    "chunk_id": 57,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 55,
+    "text_preview": "Retrieved\n13 April\n2018\n. Barfield, Woodrow; Pagallo, Ugo (2018). Research handbook on the law of artificial intelligence\n. Cheltenham, UK: Edward Elgar Publishing. ISBN\n978-1-7864-3904-8\n. OCLC\n10394",
+    "summary": "The provided text is a collection of references and articles related to artificial intelligence, including research handbooks, journal articles, and conference proceedings. The topics covered range from the law of artificial intelligence to its impact on health equity and its potential risks and benefits. The text also includes references to notable figures in the field of AI, such as Nick Bostrom and Rodney Brooks.",
+    "entities": {
+      "people": [
+        "Woodrow Barfield",
+        "Ugo Pagallo",
+        "J. Beal",
+        "Patrick Winston",
+        "Carl Thomas Berdahl",
+        "Lawrence Baker",
+        "Sean Mann",
+        "Osonde Osoba",
+        "Federico Girosi",
+        "Jamie Berryhill",
+        "Kévin Kok Heang",
+        "Rob Clogher",
+        "Keegan McBride",
+        "Marco Bertini",
+        "Alberto Del Bimbo",
+        "Carlo Torniai",
+        "Nick Bostrom",
+        "Rodney Brooks",
+        "Miriam C Buiten",
+        "Sophie Bushwick",
+        "Samuel Butler",
+        "G. Buttazzo"
+      ],
+      "places": [
+        "Cheltenham",
+        "UK",
+        "Paris",
+        "Oxford",
+        "Christchurch",
+        "New Zealand"
+      ],
+      "organizations": [
+        "Edward Elgar Publishing",
+        "IEEE",
+        "OECD Observatory of Public Sector Innovation",
+        "Oxford University Press",
+        "Rethink Robotics",
+        "Victoria University of Wellington"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current trends and developments in artificial intelligence research?",
+      "How can artificial intelligence be used to improve health equity?",
+      "What are the potential risks and benefits of advanced artificial intelligence?"
+    ]
+  },
+  {
+    "chunk_id": 58,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 56,
+    "text_preview": "Computer\n. 34\n(7):\n24-\n30. Bibcode\n:\n2001Compr..34g..24B\n. doi\n:\n10.1109/2.933500\n. Cambria, Erik; White, Bebo (May 2014). \"Jumping NLP Curves: A Review of Natural Language Processing Research [Review",
+    "summary": "The provided text is a collection of references and articles related to artificial intelligence, machine learning, and natural language processing. It includes works from various authors and publications, such as IEEE, BBC News, and Cambridge University Press. The topics range from the fundamentals of object tracking to the potential risks and biases of artificial intelligence.",
+    "entities": {
+      "people": [
+        "Stephen Hawking",
+        "Erik Cambria",
+        "Bebo White",
+        "Rory Cellan-Jones",
+        "David Chalmers",
+        "Subhash Challa",
+        "Brian Christian",
+        "Jack Clark",
+        "Daniel Dennett",
+        "Chase DiFeliciantonio",
+        "Ben Dickson"
+      ],
+      "places": [
+        "Tufts University",
+        "San Francisco"
+      ],
+      "organizations": [
+        "IEEE",
+        "BBC News",
+        "Cambridge University Press",
+        "Bloomberg",
+        "CNA",
+        "The Penguin Press",
+        "W. W. Norton & Company"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current advancements in artificial intelligence?",
+      "How does machine learning impact human values?",
+      "What are the potential risks and biases associated with artificial intelligence?"
+    ]
+  },
+  {
+    "chunk_id": 59,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 57,
+    "text_preview": "Domingos, Pedro\n(2015). The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World\n. Basic Books\n. ISBN\n978-0-4650-6570-7\n. Dreyfus, Hubert\n(1972). What Computers Can'",
+    "summary": "The provided text is a list of references and articles related to artificial intelligence, its potential risks and benefits, and its impact on humanity. The references include books, articles, and polls from various authors and publications, such as Pedro Domingos, Hubert Dreyfus, and Elon Musk. The text also touches on the topic of job creation and destruction due to automation and AI.",
+    "entities": {
+      "people": [
+        "Pedro Domingos",
+        "Hubert Dreyfus",
+        "Stuart Dreyfus",
+        "George Dyson",
+        "Edward Edelson",
+        "Benj Edwards",
+        "Nicholas Fearn",
+        "Martin Ford",
+        "Geoff Colvin",
+        "Carl Benedikt Frey",
+        "Michael A Osborne",
+        "Elon Musk",
+        "Philip K Dick",
+        "Edward Moore Geist",
+        "Samuel Gibbs"
+      ],
+      "places": [
+        "New York",
+        "Oxford"
+      ],
+      "organizations": [
+        "Basic Books",
+        "MIT Press",
+        "Blackwell",
+        "Allan Lane Science",
+        "Chelsea House",
+        "Ars Technica",
+        "Grove Press",
+        "The Guardian",
+        "Fox News",
+        "The Economist",
+        "Bulletin of the Atomic Scientists"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the potential risks and benefits of artificial intelligence?",
+      "How will AI impact the job market and employment?",
+      "Can AI pose an existential threat to humanity?"
+    ]
+  },
+  {
+    "chunk_id": 60,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 58,
+    "text_preview": "Goffrey, Andrew (2008). \"Algorithm\". In Fuller, Matthew (ed.). Software studies: a lexicon\n. Cambridge, Mass.: MIT Press. pp. 15\n-20. ISBN\n978-1-4356-4787-9\n. Goldman, Sharon (14 September 2022). \"10 ",
+    "summary": "Extraction failed — raw output could not be parsed as JSON.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0
+    },
+    "key_questions": [
+      "Could not extract questions.",
+      "Could not extract questions.",
+      "Could not extract questions."
+    ],
+    "parse_error": true
+  },
+  {
+    "chunk_id": 61,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 59,
+    "text_preview": "Retrieved\n30 October\n2015\n. Hornik, Kurt; Stinchcombe, Maxwell; White, Halbert (1989). Multilayer Feedforward Networks are Universal Approximators\n(PDF)\n. Neural Networks\n. Vol. 2. Pergamon Press. pp.",
+    "summary": "The text provides a collection of references and articles related to artificial intelligence, machine learning, and robotics, including research papers, news articles, and book excerpts. The topics covered include the history and development of AI, its applications and limitations, and the ethical considerations surrounding its use. The text also mentions various researchers and experts in the field, including Daniel Kahneman, Noam Chomsky, and Henry Kissinger.",
+    "entities": {
+      "people": [
+        "Kurt Hornik",
+        "Maxwell Stinchcombe",
+        "Halbert White",
+        "Steven Horst",
+        "J. Howe",
+        "Ron Iphofen",
+        "Mihalis Kritikos",
+        "M. I. Jordan",
+        "T. M. Mitchell",
+        "Daniel Kahneman",
+        "Paul Slovic",
+        "Amos Tversky",
+        "Peter Kasperowicz",
+        "Noam Chomsky",
+        "Yarden Katz",
+        "Henry Kissinger",
+        "James Kobielus"
+      ],
+      "places": [
+        "Edinburgh University",
+        "Chicago",
+        "Cambridge"
+      ],
+      "organizations": [
+        "Pergamon Press",
+        "Stanford Encyclopedia of Philosophy",
+        "IGM Chicago",
+        "Fox News",
+        "MIT Artificial Intelligence Laboratory",
+        "The Wall Street Journal",
+        "InformationWeek"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key developments in the field of artificial intelligence?",
+      "How are researchers and experts addressing the ethical considerations surrounding AI?",
+      "What are the potential applications and limitations of AI in various industries?"
+    ]
+  },
+  {
+    "chunk_id": 62,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 60,
+    "text_preview": "(1 July 2006). \"Using Commercial Knowledge Bases for Clinical Decision Support: Opportunities, Hurdles, and Recommendations\"\n. Journal of the American Medical Informatics Association\n. 13\n(4):\n369-\n37",
+    "summary": "The provided text is a collection of references and articles related to artificial intelligence, machine learning, and their applications. The articles discuss various topics such as the use of commercial knowledge bases for clinical decision support, the changing science of machine learning, and the potential impact of artificial intelligence on jobs. The references also include books and research papers on artificial intelligence and its development.",
+    "entities": {
+      "people": [
+        "Ray Kurzweil",
+        "Pat Langley",
+        "Jeff Larson",
+        "Julia Angwin",
+        "Nicole Laskowski",
+        "Timothy B. Lee",
+        "Douglas Lenat",
+        "R. V. Guha",
+        "James Lighthill",
+        "Kenneth Lipartito",
+        "Steve Lohr",
+        "M. Lungarella",
+        "G. Metta",
+        "R. Pfeifer",
+        "G. Sandini",
+        "Alexis C. Madrigal",
+        "Arwa Mahdawi"
+      ],
+      "places": [],
+      "organizations": [
+        "Penguin Books",
+        "ProPublica",
+        "Law Library of Congress",
+        "Vox",
+        "Addison-Wesley",
+        "Science Research Council",
+        "The New York Times",
+        "AAAI",
+        "Fusion.net",
+        "The Guardian"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current developments in artificial intelligence?",
+      "How will artificial intelligence impact jobs and the economy?",
+      "What are the potential risks and benefits of advanced artificial intelligence systems?"
+    ]
+  },
+  {
+    "chunk_id": 63,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 61,
+    "text_preview": "Archived\nfrom the original on 14 January 2018\n. Retrieved\n13 January\n2018\n. Maker, Meg Houston (2006),\nAI@50: AI Past, Present, Future\n, Dartmouth College, archived from\nthe original\non 8 October 2008",
+    "summary": "The text discusses various topics related to artificial intelligence, including its history, current state, and potential future developments. It references several researchers and their works, such as Marvin Minsky and John McCarthy, and touches on the potential impact of AI on society. The text also mentions various publications and conferences related to AI.",
+    "entities": {
+      "people": [
+        "Marvin Minsky",
+        "John McCarthy",
+        "Françoise Marmouyet",
+        "Claude Shannon",
+        "Nathan Rochester",
+        "Hans Moravec",
+        "Vincent C. Müller",
+        "Nick Bostrom",
+        "Bernd Neumann",
+        "Ralf Möller",
+        "Meg Houston Maker",
+        "Lee McCauley",
+        "Ken McGarry",
+        "Ewan McGaughey",
+        "Michael Morgenstern",
+        "Daniel Merkle",
+        "Martin Middendorf"
+      ],
+      "places": [
+        "Dartmouth College",
+        "Englewood Cliffs"
+      ],
+      "organizations": [
+        "Google",
+        "Springer Science & Business Media",
+        "Harvard University Press",
+        "The Conversation",
+        "The Economist",
+        "Stanford University",
+        "ProQuest",
+        "SSRN"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What is the current state of artificial intelligence?",
+      "How will AI impact society in the future?",
+      "What are the key challenges and opportunities in AI research?"
+    ]
+  },
+  {
+    "chunk_id": 64,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 62,
+    "text_preview": "doi\n:\n10.1016/j.imavis.2007.08.013\n. Nilsson, Nils\n(1995), \"Eyes on the Prize\",\nAI Magazine\n, vol. 16, pp. 9-\n17\nNewell, Allen\n;\nSimon, H. A. (1976). \"Computer Science as Empirical Inquiry: Symbols an",
+    "summary": "The text discusses various topics related to artificial intelligence, including its history, development, and potential impact on society. It cites several authors and researchers, such as Nils Nilsson, Allen Newell, and Steven Pinker, and references their work in the field. The text also touches on the potential risks and benefits of AI, as well as its applications in areas like robotics and cognitive science.",
+    "entities": {
+      "people": [
+        "Nils Nilsson",
+        "Allen Newell",
+        "H. A. Simon",
+        "Jack Nicas",
+        "Steve Omohundro",
+        "P-Y. Oudeyer",
+        "C. Pennachin",
+        "B. Goertzel",
+        "Steven Pinker",
+        "Soujanya Poria",
+        "Erik Cambria",
+        "Rajiv Bajpai",
+        "Amir Hussain",
+        "Bill Gates",
+        "Kevin Rawlinson",
+        "Alex Reisner",
+        "Jacob Roberts"
+      ],
+      "places": [
+        "San Francisco",
+        "United States",
+        "Berlin",
+        "Heidelberg"
+      ],
+      "organizations": [
+        "Association for the Advancement of Artificial Intelligence",
+        "National Research Council",
+        "Springer",
+        "BBC News",
+        "The Atlantic",
+        "Microsoft"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key developments in the history of artificial intelligence?",
+      "How do researchers like Nils Nilsson and Steven Pinker contribute to the field of AI?",
+      "What are the potential risks and benefits of AI, and how can they be mitigated?"
+    ]
+  },
+  {
+    "chunk_id": 65,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 63,
+    "text_preview": "14-\n23. Archived from\nthe original\non 19 August 2018\n. Retrieved\n20 March\n2018\n. Robitzski, Dan (5 September 2018). \"Five experts share what scares them the most about AI\"\n. Futurism\n. Archived\nfrom t",
+    "summary": "The text discusses various aspects of artificial intelligence, including its potential risks and benefits, as well as the need for transparency and accountability in AI development. Experts such as Stephen Hawking, Elon Musk, and Bill Gates have warned about the dangers of AI, while others, like Stuart Russell, have written about the importance of making AI compatible with human values. The text also references various research papers and articles on AI, including those on deep learning, neural networks, and the ethics of AI.",
+    "entities": {
+      "people": [
+        "Stephen Hawking",
+        "Elon Musk",
+        "Bill Gates",
+        "Stuart Russell",
+        "Dan Robitzski",
+        "Steve Rose",
+        "Michael Sainato",
+        "Ian Sample",
+        "Denis Rothman",
+        "Brian Scassellati",
+        "Jürgen Schmidhuber",
+        "John Searle",
+        "H. A. Simon",
+        "Tom Simonite",
+        "Ilya Sutskever",
+        "Craig S. Smith"
+      ],
+      "places": [
+        "United States",
+        "New York"
+      ],
+      "organizations": [
+        "The Guardian",
+        "Futurism",
+        "Observer",
+        "Codemotion",
+        "MIT Technology Review",
+        "Forbes",
+        "Viking",
+        "Basic Books",
+        "Harper & Row"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the potential risks and benefits of artificial intelligence?",
+      "How can AI be made more transparent and accountable?",
+      "What are the implications of AI on human society and values?"
+    ]
+  },
+  {
+    "chunk_id": 66,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 64,
+    "text_preview": "Smoliar, Stephen W.; Zhang, HongJiang (1994). \"Content based video indexing and retrieval\"\n. IEEE MultiMedia\n. 1\n(2):\n62-\n72. doi\n:\n10.1109/93.311653\n. Solomonoff, Ray\n(1956). An Inductive Inference M",
+    "summary": "The text discusses various topics related to artificial intelligence, including content-based video indexing, inductive inference machines, and affective computing. It also mentions the work of several researchers, such as Geoffrey Hinton, Ray Solomonoff, and Alan Turing, and their contributions to the field of AI. Additionally, the text touches on the potential dangers of AI and the need for responsible development and governance.",
+    "entities": {
+      "people": [
+        "Stephen W. Smoliar",
+        "HongJiang Zhang",
+        "Ray Solomonoff",
+        "Geoffrey Hinton",
+        "Jon Stewart",
+        "Jianhua Tao",
+        "Tieniu Tan",
+        "Josh Taylor",
+        "Alex Hern",
+        "Derek Thompson",
+        "Ellen Thro",
+        "Rob Toews",
+        "Alan Turing",
+        "Fabio Urbina",
+        "Filippa Lentzos",
+        "Cédric Invernizzi",
+        "Sean Ekins"
+      ],
+      "places": [
+        "Stanford University",
+        "Paris",
+        "New York"
+      ],
+      "organizations": [
+        "IEEE",
+        "Google",
+        "The Guardian",
+        "The Atlantic",
+        "Forbes",
+        "UNESCO"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the current advancements in artificial intelligence?",
+      "How can AI be used for content-based video indexing and retrieval?",
+      "What are the potential risks and challenges associated with AI development?"
+    ]
+  },
+  {
+    "chunk_id": 67,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 65,
+    "text_preview": "PMID\n36211133\n. Valance, Christ (30 May 2023). \"Artificial intelligence could lead to extinction, experts warn\"\n. BBC News\n. Archived\nfrom the original on 17 June 2023\n. Retrieved\n18 June\n2023\n. Valin",
+    "summary": "Experts warn that artificial intelligence could lead to extinction, and there are concerns about the ethics and control of AI. The development of AI has led to the creation of autonomous systems and chatbots, which are becoming increasingly advanced. Researchers and scientists are exploring the possibilities and risks of AI, including its potential impact on society and the need for moral guidelines.",
+    "entities": {
+      "people": [
+        "Christ Valance",
+        "Jordan Valinsky",
+        "Yugesh Verma",
+        "James Vincent",
+        "Vernor Vinge",
+        "Kaveh Waddell",
+        "Wendell Wallach",
+        "P. C. Wason",
+        "J. Weng"
+      ],
+      "places": [],
+      "organizations": [
+        "BBC News",
+        "Amazon",
+        "CNN",
+        "Analytics India Magazine",
+        "The Verge",
+        "Oxford University Press",
+        "The Atlantic",
+        "Scientific American"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.7
+    },
+    "key_questions": [
+      "What are the potential risks of artificial intelligence?",
+      "How are experts addressing the ethics of AI development?",
+      "What are the implications of AI on society and human existence?"
+    ]
+  },
+  {
+    "chunk_id": 68,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 66,
+    "text_preview": "Williams, Rhiannon (28 June 2023),\n\"Humans may be more likely to believe disinformation generated by AI\"\n,\nMIT Technology Review\n,\narchived\nfrom the original on 16 September 2024\n, retrieved\n5 October",
+    "summary": "Research suggests that humans may be more likely to believe disinformation generated by AI, and the applications and challenges of artificial intelligence in the public sector have been studied. The development and risks of AI have been discussed in various publications, including the MIT Technology Review and The Atlantic. The topic of artificial intelligence has been explored in academic journals and online resources, such as the International Journal of Public Administration and the Internet Encyclopedia of Philosophy.",
+    "entities": {
+      "people": [
+        "Rhiannon Williams",
+        "Bernd W. Wirtz",
+        "Jan C. Weyerer",
+        "Carolin Geyer",
+        "Matteo Wong",
+        "E Yudkowsky",
+        "Larry Hauser",
+        "James Fieser",
+        "Bradley Dowden"
+      ],
+      "places": [],
+      "organizations": [
+        "MIT Technology Review",
+        "The Atlantic",
+        "Oxford University Press",
+        "Internet Encyclopedia of Philosophy"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the risks of artificial intelligence generating disinformation?",
+      "How is artificial intelligence being used in the public sector?",
+      "What are the potential consequences of relying on AI-generated information?"
+    ]
+  },
+  {
+    "chunk_id": 69,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 67,
+    "text_preview": "v\nt\ne\nArtificial intelligence\n(AI)\nHistory\ntimeline\nGlossary\nCompanies\nProjects\nConcepts\nAutomated reasoning\nParameter\nHyperparameter\nLoss functions\nRegression\nBias-variance tradeoff\nDouble descent\nOv",
+    "summary": "Artificial intelligence (AI) has a rich history, with key concepts including automated reasoning, machine learning, and deep learning. The field has been shaped by numerous researchers and scientists, such as Alan Turing, Warren Sturgis McCulloch, and John von Neumann. AI has various applications, including language models, computer vision, and speech recognition.",
+    "entities": {
+      "people": [
+        "Alan Turing",
+        "Warren Sturgis McCulloch",
+        "Walter Pitts",
+        "John von Neumann",
+        "Christopher D. Manning",
+        "Claude Shannon",
+        "Shun'ichi Amari",
+        "Kunihiko Fukushima",
+        "Takeo Kanade",
+        "Marvin Minsky",
+        "John McCarthy",
+        "Nathaniel Rochester",
+        "Allen Newell",
+        "Cliff Shaw",
+        "Herbert A. Simon",
+        "Oliver Selfridge",
+        "Frank Rosenblatt",
+        "Bernard Widrow",
+        "Joseph Weizenbaum",
+        "Seymour Papert",
+        "Seppo Linnainmaa",
+        "Paul Werbos",
+        "Geoffrey Hinton",
+        "John Hopfield",
+        "Jürgen Schmidhuber",
+        "Yann LeCun",
+        "Yoshua Bengio",
+        "Lotfi A. Zadeh",
+        "Stephen Grossberg",
+        "Alex Graves",
+        "James Goodnight",
+        "Andrew Ng",
+        "Fei-Fei Li",
+        "Alex Krizhevsky",
+        "Ilya Sutskever",
+        "Oriol Vinyals",
+        "Quoc V."
+      ],
+      "places": [],
+      "organizations": [
+        "OpenAI",
+        "IBM",
+        "Xiaomi"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key concepts in artificial intelligence?",
+      "Who are some notable researchers in the field of AI?",
+      "What are some applications of artificial intelligence?"
+    ]
+  },
+  {
+    "chunk_id": 70,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 68,
+    "text_preview": "Le\nIan Goodfellow\nDemis Hassabis\nDavid Silver\nAndrej Karpathy\nAshish Vaswani\nNoam Shazeer\nAidan Gomez\nJohn Schulman\nMustafa Suleyman\nJan Leike\nDaniel Kokotajlo\nFrançois Chollet\nArchitectures\nNeural Tu",
+    "summary": "The text provides a list of notable individuals in the field of artificial intelligence, including Ian Goodfellow, Demis Hassabis, and David Silver. It also mentions various AI architectures, such as neural Turing machines and transformers, as well as topics related to AI safety, ethics, and regulation. Additionally, the text touches on the philosophy of mind and lists several prominent philosophers, including Aristotle, René Descartes, and Alan Turing.",
+    "entities": {
+      "people": [
+        "Ian Goodfellow",
+        "Demis Hassabis",
+        "David Silver",
+        "Andrej Karpathy",
+        "Ashish Vaswani",
+        "Noam Shazeer",
+        "Aidan Gomez",
+        "John Schulman",
+        "Mustafa Suleyman",
+        "Jan Leike",
+        "Daniel Kokotajlo",
+        "François Chollet",
+        "John McCarthy",
+        "G. E. M. Anscombe",
+        "Aristotle",
+        "Thomas Aquinas",
+        "J. L. Austin",
+        "Alexander Bain",
+        "George Berkeley",
+        "Henri Bergson",
+        "Ned Block",
+        "Franz Brentano",
+        "C. D. Broad",
+        "Tyler Burge",
+        "David Chalmers",
+        "Patricia Churchland",
+        "Paul Churchland",
+        "Andy Clark",
+        "Dharmakirti",
+        "Donald Davidson",
+        "Daniel Dennett",
+        "René Descartes",
+        "Fred Dretske",
+        "Fodor",
+        "Goldman",
+        "Martin Heidegger",
+        "David Hume",
+        "Edmund Husserl",
+        "William James",
+        "Frank Cameron Jackson",
+        "Immanuel Kant",
+        "David Lewis",
+        "John Locke",
+        "Gottfried Wilhelm Leibniz",
+        "Maurice Merleau-Ponty",
+        "Marvin Minsky",
+        "Thomas Nagel",
+        "Alva Noë",
+        "Derek Parfit",
+        "Plato",
+        "Hilary Putnam",
+        "Richard Rorty",
+        "Gilbert Ryle",
+        "John Searle",
+        "Wilfrid Sellars",
+        "Baruch Spinoza",
+        "Alan Turing",
+        "Michael Tye",
+        "Vasubandhu",
+        "Ludwig Wittgenstein",
+        "Stephen Yablo",
+        "Zhuangzi"
+      ],
+      "places": [
+        "EU",
+        "US"
+      ],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the key architectures in artificial intelligence?",
+      "How do AI safety and ethics relate to the development of AI?",
+      "What is the impact of AI on society and the economy?"
+    ]
+  },
+  {
+    "chunk_id": 71,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 69,
+    "text_preview": "Theories\nBehaviorism\nBiological naturalism\nDualism\nEliminative materialism\nEmergent materialism\nEpiphenomenalism\nFunctionalism\nInteractionism\nNaïve realism\nNeurophenomenology\nNeutral monism\nNew myster",
+    "summary": "The text discusses various theories and concepts in the philosophy of mind and science, including behaviorism, dualism, and physicalism. It also covers topics such as consciousness, cognition, and the mind-body problem. The text provides an overview of different philosophical perspectives and approaches to understanding the nature of reality and knowledge.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the main theories in the philosophy of mind?",
+      "How do different philosophical perspectives approach the nature of reality?",
+      "What is the relationship between consciousness and the physical world?"
+    ]
+  },
+  {
+    "chunk_id": 72,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 70,
+    "text_preview": "Biology\nChemistry\nPhysics\nSpace and time\nSocial science\nArchaeology\nEconomics\nGeography\nHistory\nLinguistics\nPsychology\nRelated topics\nCriticism of science\nDescriptive science\nEpistemology\nExact scienc",
+    "summary": "Extraction failed — raw output could not be parsed as JSON.",
+    "entities": {
+      "people": [],
+      "places": [],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.0
+    },
+    "key_questions": [
+      "Could not extract questions.",
+      "Could not extract questions.",
+      "Could not extract questions."
+    ],
+    "parse_error": true
+  },
+  {
+    "chunk_id": 73,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 71,
+    "text_preview": "Quine\nThomas Kuhn\nImre Lakatos\nPaul Feyerabend\nIan Hacking\nBas van Fraassen\nLarry Laudan\nCategory\nv\nt\ne\nEvolutionary computation\nMain Topics\nEvolutionary algorithm\nEvolutionary data mining\nEvolutionar",
+    "summary": "The provided text covers various topics in computer science, artificial intelligence, and robotics, including evolutionary computation, machine learning, and existential risk from artificial intelligence. It also lists numerous organizations, researchers, and concepts related to these fields. The text appears to be a collection of information from Wikipedia or a similar source, providing an overview of the current state of research and development in these areas.",
+    "entities": {
+      "people": [
+        "Thomas Kuhn",
+        "Imre Lakatos",
+        "Paul Feyerabend",
+        "Ian Hacking",
+        "Bas van Fraassen",
+        "Larry Laudan",
+        "Scott Alexander",
+        "Sam Altman",
+        "Dario Amodei",
+        "Yoshua Bengio",
+        "Nick Bostrom",
+        "Eric Drexler",
+        "Owain Evans",
+        "Sam Harris",
+        "Stephen Hawking",
+        "Dan Hendrycks",
+        "Geoffrey Hinton",
+        "Bill Joy",
+        "Daniel Kokotajlo",
+        "Shane Legg",
+        "Jan Leike",
+        "Elon Musk",
+        "Steve Omohundro",
+        "Toby Ord",
+        "Huw Price",
+        "Martin Rees",
+        "Stuart J."
+      ],
+      "places": [],
+      "organizations": [
+        "ACM",
+        "IEEE",
+        "ACM SIGEVO",
+        "IEEE CIS",
+        "AI Futures Project",
+        "Alignment Research Center",
+        "Center for AI Safety",
+        "Center for Applied Rationality",
+        "Center for Human-Compatible Artificial Intelligence",
+        "Centre for the Study of Existential Risk",
+        "Future of Humanity Institute",
+        "Future of Life Institute",
+        "Google DeepMind",
+        "Institute for Ethics and Emerging Technologies",
+        "Leverhulme Centre for the Future of Intelligence",
+        "Machine Intelligence Research Institute",
+        "METR",
+        "OpenAI",
+        "PauseAI",
+        "Safe Superintelligence",
+        "Stop AI",
+        "ABB",
+        "Amazon Robotics",
+        "Anybots",
+        "Barrett Technology",
+        "Boston Dynamics",
+        "Daxbot",
+        "Doosan Robotics",
+        "Energid Technologies",
+        "FarmWise",
+        "FANUC",
+        "Figure AI",
+        "Foster-Miller",
+        "Harvest Automation",
+        "HD Hyundai Robotics",
+        "Honeybee Robotics",
+        "Intuitive Surgical",
+        "IRobot",
+        "KUKA",
+        "Rainbow Robotics",
+        "Starship Technologies",
+        "Symbotic",
+        "Universal Robotics",
+        "Wolf Robotics",
+        "Yaskawa"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the main topics in evolutionary computation?",
+      "How does artificial intelligence relate to existential risk?",
+      "What are the current applications of robotics in various industries?"
+    ]
+  },
+  {
+    "chunk_id": 74,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 72,
+    "text_preview": "Russell\nNate Soares\nIlya Sutskever\nJaan Tallinn\nMax Tegmark\nAlan Turing\nFrank Wilczek\nRoman Yampolskiy\nEliezer Yudkowsky\nBooks\nDo You Trust This Computer? Human Compatible\nIf Anyone Builds It, Everyon",
+    "summary": "The text lists numerous individuals involved in the fields of artificial intelligence, cybernetics, and related areas, including researchers, scientists, and theorists. It also mentions various books, concepts, and subfields within these disciplines. The list appears to be a compilation of notable figures and topics in the realm of AI and cybernetics.",
+    "entities": {
+      "people": [
+        "Russell",
+        "Nate Soares",
+        "Ilya Sutskever",
+        "Jaan Tallinn",
+        "Max Tegmark",
+        "Alan Turing",
+        "Frank Wilczek",
+        "Roman Yampolskiy",
+        "Eliezer Yudkowsky",
+        "Alexander Lerner",
+        "Alexey Lyapunov",
+        "Alfred Radcliffe-Brown",
+        "Allenna Leonard",
+        "Anthony Wilden",
+        "Buckminster Fuller",
+        "Charles François",
+        "Genevieve Bell",
+        "Margaret Boden",
+        "Claude Bernard",
+        "Cliff Joslyn",
+        "Erich von Holst",
+        "Ernst von Glasersfeld",
+        "Francis Heylighen",
+        "Francisco Varela",
+        "Frederic Vester",
+        "Charles Geoffrey Vickers",
+        "Gordon Pask",
+        "Gordon S. Brown",
+        "Gregory Bateson",
+        "Heinz von Foerster",
+        "Humberto Maturana",
+        "I. A. Richards",
+        "Igor Aleksander",
+        "Jacque Fresco",
+        "Jakob von Uexküll",
+        "Jason Jixuan Hu",
+        "Jay Wright Forrester",
+        "Jennifer Wilby",
+        "John N. Warfield",
+        "Kevin Warwick",
+        "Ludwig von Bertalanffy",
+        "Maleyka Abbaszadeh",
+        "Manfred Clynes",
+        "Margaret Mead",
+        "Marian Mazur",
+        "N. Katherine Hayles",
+        "Natalia Bekhtereva",
+        "Niklas Luhmann",
+        "Norbert Wiener",
+        "Pyotr Grigorenko",
+        "Qian Xuesen",
+        "Ranulph Glanville",
+        "Robert Trappl",
+        "Sergei P."
+      ],
+      "places": [
+        "US",
+        "Soviet Union"
+      ],
+      "organizations": []
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "Who are the key figures in the field of artificial intelligence?",
+      "What are the main subfields of cybernetics?",
+      "How do these fields relate to each other and to society?"
+    ]
+  },
+  {
+    "chunk_id": 75,
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "chunk_index": 73,
+    "text_preview": "Kurdyumov\nStafford Beer\nStuart Kauffman\nStuart Umpleby\nTalcott Parsons\nUlla Mitzdorf\nValentin Turchin\nValentin Braitenberg\nWilliam Ross Ashby\nWalter Bradford Cannon\nWalter Pitts\nWarren McCulloch\nWilli",
+    "summary": "The text appears to be a list of notable individuals and glossaries related to various fields of science and engineering, including artificial intelligence, biology, and computer science. The list includes names such as Stafford Beer, Stuart Kauffman, and William Ross Ashby, among others. The text also mentions various Wikipedia categories and portals related to these fields.",
+    "entities": {
+      "people": [
+        "Stafford Beer",
+        "Stuart Kauffman",
+        "Stuart Umpleby",
+        "Talcott Parsons",
+        "Ulla Mitzdorf",
+        "Valentin Turchin",
+        "Valentin Braitenberg",
+        "William Ross Ashby",
+        "Walter Bradford Cannon",
+        "Walter Pitts",
+        "Warren McCulloch",
+        "William Grey Walter",
+        "Kurdyumov"
+      ],
+      "places": [
+        "United States",
+        "France",
+        "Japan",
+        "Czech Republic",
+        "Spain",
+        "Latvia",
+        "Israel"
+      ],
+      "organizations": [
+        "Wikipedia",
+        "Wiktionary",
+        "Wikibooks",
+        "Wikiversity",
+        "Wikidata"
+      ]
+    },
+    "sentiment": {
+      "label": "neutral",
+      "confidence": 0.8
+    },
+    "key_questions": [
+      "What are the main fields of study related to artificial intelligence?",
+      "Who are some notable individuals in the field of artificial intelligence?",
+      "What are some of the key concepts and categories related to artificial intelligence?"
+    ]
+  }
+]
